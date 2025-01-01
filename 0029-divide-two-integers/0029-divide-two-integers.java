@@ -4,6 +4,10 @@ class Solution {
             return Integer.MAX_VALUE;
         }
 
+        if (dividend == divisor) {
+            return 1;
+        }
+
         // ^ is XOR
         // (-2 xor 1) = true
         // (-2 xor -2) = false
