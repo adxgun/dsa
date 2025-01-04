@@ -1,7 +1,7 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder sb = new StringBuilder();
-        int i = 0, j = 0, l1 = word1.length(), l2 = word2.length();
+        int i = 0, l1 = word1.length(), l2 = word2.length();
         int n = Math.max(l1, l2);
 
         while(i < n) {
