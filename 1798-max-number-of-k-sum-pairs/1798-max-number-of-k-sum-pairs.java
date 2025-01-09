@@ -11,8 +11,7 @@ class Solution {
                 left++;
             } else {
                 op += 1;
-                nums[left] = 0;
-                nums[right] = 0;
+                left++;
                 right--;
             }
         }
