@@ -6,10 +6,15 @@ class Solution {
 
         s = s.trim();
         String[] words = s.split("\\s+");
+        int left = 0, right = words.length - 1;
 
-        List<String> l = Arrays.asList(words);
-        Collections.reverse(l);
-
-        return String.join(" ", l);
+        while(left < right) {
+            String temp = words[left];
+            words[left] = words[right];
+            words[right] = temp;
+            left++;
+            right--;
+        }
+        return String.join(" ", words);
     }
 }
