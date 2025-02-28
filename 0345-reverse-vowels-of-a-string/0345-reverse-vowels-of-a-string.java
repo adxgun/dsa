@@ -1,7 +1,6 @@
 class Solution {
 
     private static final Set<Character> VOWELS = new HashSet<>();
-    
     static {
         VOWELS.add('a');
         VOWELS.add('e');
@@ -14,33 +13,37 @@ class Solution {
         VOWELS.add('O');
         VOWELS.add('U');
     }
-    
+
     public String reverseVowels(String s) {
+        if (s == null || s.length() == 0) {
+            return s;
+        }
+
         int left = 0, right = s.length() - 1;
-        char[] arr = s.toCharArray();
-        
+        char[] chars = s.toCharArray();
         while(left < right) {
-            while(left < right && !VOWELS.contains(arr[left])) {
+            while(left < right && !isVowel(chars[left])) {
                 left++;
             }
 
-            while(left < right && !VOWELS.contains(arr[right])) {
+            while(left < right && !isVowel(chars[right])) {
                 right--;
             }
 
+            
             if (left < right) {
-                char temp = arr[left];
-                arr[left] = arr[right];
-                arr[right] = temp;
+                char temp = chars[left];
+                chars[left] = chars[right];
+                chars[right] = temp;
 
                 left++;
                 right--;
             }
         }
-        return new String(arr);
+        return new String(chars);
     }
 
-    private boolean isVowel(char c) {
-        return VOWELS.contains(c);
+    private boolean isVowel(char v) {
+        return VOWELS.contains(v);
     }
 }
