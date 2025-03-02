@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/adxgun/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adxgun/dsa/tree/master/0040-combination-sum-ii) |
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/adxgun/dsa/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/adxgun/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/adxgun/dsa/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/adxgun/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adxgun/dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adxgun/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/adxgun/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/adxgun/dsa/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adxgun/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/adxgun/dsa/tree/master/0443-string-compression) |
