@@ -1,7 +1,8 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
         Arrays.sort(nums);
-        int left = 0, right = nums.length - 1, op = 0;
+        int ops = 0;
+        int left = 0, right = nums.length - 1;
 
         while(left < right) {
             int sum = nums[left] + nums[right];
@@ -10,11 +11,11 @@ class Solution {
             } else if (sum < k) {
                 left++;
             } else {
-                op += 1;
+                ops += 1;
                 left++;
                 right--;
             }
         }
-        return op;
+        return ops;
     }
 }
