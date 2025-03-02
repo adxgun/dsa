@@ -1,15 +1,21 @@
 class Solution {
+    // https://chatgpt.com/share/67c42bed-0a10-8005-9106-cc5ea4c3e62b
     public boolean increasingTriplet(int[] nums) {
-       int first = Integer.MAX_VALUE, second = Integer.MAX_VALUE;
-       for (int num : nums) {
-         if (num <= first) {
-            first = num;
-         } else if (num <= second) {
-            second = num;
-         } else {
-            return true;
-         }
-       }
-       return false;
+        if (nums.length < 3) {
+            return false;
+        }
+
+        int firstMin = Integer.MAX_VALUE;
+        int secondMin = Integer.MAX_VALUE;
+        for (int x : nums) {
+            if (x <= firstMin) {
+                firstMin = x;
+            } else if (x <= secondMin) {
+                secondMin = x;
+            } else {
+                return true; // firstMin < secondMin < x -> 1 < 2 < 3
+            }
+        }
+        return false;
     }
 }
