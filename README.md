@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1833-find-the-highest-altitude) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adxgun/dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adxgun/dsa/tree/master/0029-divide-two-integers) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Matrix
 |  |
 | ------- |
