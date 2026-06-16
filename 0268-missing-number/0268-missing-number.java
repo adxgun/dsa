@@ -10,7 +10,7 @@ class Solution {
         return 0;
     }
 
-    public int missingNumber(int[] nums) {
+    public int missingNumberB(int[] nums) {
         Arrays.sort(nums);
         int lo = 0, hi = nums.length - 1;
 
@@ -20,5 +20,13 @@ class Solution {
             else hi = mid - 1;
         }
         return lo;
+    }
+
+    public int missingNumber(int[] nums) {
+        int n = nums.length;
+        int expected = n * (n + 1) / 2;
+        int actual = 0;
+        for (int x : nums) actual += x;
+        return expected - actual;
     }
 }
