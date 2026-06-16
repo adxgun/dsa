@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
+| [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adxgun/dsa/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/adxgun/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/adxgun/dsa/tree/master/0605-can-place-flowers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adxgun/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adxgun/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/adxgun/dsa/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adxgun/dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adxgun/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/adxgun/dsa/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/adxgun/dsa/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adxgun/dsa/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/adxgun/dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
+| [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adxgun/dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adxgun/dsa/tree/master/0016-3sum-closest) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
+| [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
 |  |
@@ -237,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adxgun/dsa/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Matrix
 |  |
