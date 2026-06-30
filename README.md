@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/adxgun/dsa/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/adxgun/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adxgun/dsa/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/adxgun/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adxgun/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adxgun/dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adxgun/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adxgun/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/adxgun/dsa/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adxgun/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adxgun/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adxgun/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/adxgun/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/adxgun/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adxgun/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adxgun/dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adxgun/dsa/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
