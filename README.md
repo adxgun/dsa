@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adxgun/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/adxgun/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/adxgun/dsa/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/adxgun/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adxgun/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
