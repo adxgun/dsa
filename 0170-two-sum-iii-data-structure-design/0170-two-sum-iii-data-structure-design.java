@@ -1,27 +1,21 @@
 class TwoSum {
 
-    private List<Long> nums;
+    private HashMap<Integer, Integer> counts;
 
     public TwoSum() {
-        nums = new ArrayList<>();
+        counts = new HashMap<>();
     }
     
     public void add(int number) {
-        nums.add((long) number);
+        counts.merge(number, 1, Integer::sum);
     }
     
     public boolean find(int value) {
-        Collections.sort(nums);
-        int lo = 0, hi = nums.size() - 1;
-        while(lo < hi) {
-            long sum = nums.get(lo) + nums.get(hi);
-            if (sum == (long) value) {
-                return true;
-            } else if (sum < value) {
-                lo++;
-            } else {
-                hi--;
-            }
+        for (int x : counts.keySet()) {
+            int compliment = value - x;
+            if (compliment == x) {
+                if (counts.get(x) >= 2) return true;
+            } else if (counts.containsKey(compliment)) return true;
         }
         return false;
     }
