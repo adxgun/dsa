@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adxgun/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/adxgun/dsa/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/adxgun/dsa/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/adxgun/dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/adxgun/dsa/tree/master/0441-arranging-coins) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adxgun/dsa/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/adxgun/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adxgun/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/adxgun/dsa/tree/master/0443-string-compression) |
