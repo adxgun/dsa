@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adxgun/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/adxgun/dsa/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/adxgun/dsa/tree/master/0163-missing-ranges) |
+| [0164-maximum-gap](https://github.com/adxgun/dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adxgun/dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adxgun/dsa/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/adxgun/dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
@@ -362,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adxgun/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/adxgun/dsa/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/adxgun/dsa/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
