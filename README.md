@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adxgun/dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/adxgun/dsa/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/adxgun/dsa/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adxgun/dsa/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/adxgun/dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/adxgun/dsa/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/adxgun/dsa/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
