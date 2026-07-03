@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/adxgun/dsa/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adxgun/dsa/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/adxgun/dsa/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/adxgun/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/adxgun/dsa/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/adxgun/dsa/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/adxgun/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adxgun/dsa/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1833-find-the-highest-altitude) |
