@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/adxgun/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/adxgun/dsa/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/adxgun/dsa/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adxgun/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adxgun/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adxgun/dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/adxgun/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/adxgun/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adxgun/dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adxgun/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
+| [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/adxgun/dsa/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/adxgun/dsa/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 ## Union-Find
