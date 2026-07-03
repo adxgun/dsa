@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/adxgun/dsa/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -425,4 +428,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/adxgun/dsa/tree/master/0528-random-pick-with-weight) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
