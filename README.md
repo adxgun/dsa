@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/adxgun/dsa/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/adxgun/dsa/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/adxgun/dsa/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/adxgun/dsa/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
