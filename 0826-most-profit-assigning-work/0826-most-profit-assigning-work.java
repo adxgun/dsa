@@ -1,5 +1,5 @@
 class Solution {
-    public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
+    public int maxProfitAssignmentA(int[] difficulty, int[] profit, int[] worker) {
         int n = difficulty.length;
 
         // pair jobs and sort by difficulty
@@ -37,5 +37,27 @@ class Solution {
             else hi = mid;
         }
         return lo;
+    }
+
+    public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
+        int n = difficulty.length;
+        int[][] jobs = new int[n][2];
+        for (int i = 0; i < n; i++) {
+            jobs[i][0] = difficulty[i];
+            jobs[i][1] = profit[i];
+        }
+        java.util.Arrays.sort(jobs, (a, b) -> a[0] - b[0]);
+        java.util.Arrays.sort(worker);   // sort workers ascending
+
+        int total = 0, best = 0, j = 0;
+        for (int w : worker) {
+            // advance through all jobs this worker can do, tracking the best profit unlocked
+            while (j < n && jobs[j][0] <= w) {
+                best = Math.max(best, jobs[j][1]);
+                j++;
+            }
+            total += best;   // best is monotonic because workers are processed in ascending order
+        }
+        return total;
     }
 }
