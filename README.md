@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adxgun/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/adxgun/dsa/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/adxgun/dsa/tree/master/0825-friends-of-appropriate-ages) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/adxgun/dsa/tree/master/0754-reach-a-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/adxgun/dsa/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/adxgun/dsa/tree/master/0825-friends-of-appropriate-ages) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/adxgun/dsa/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/adxgun/dsa/tree/master/0825-friends-of-appropriate-ages) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/adxgun/dsa/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/adxgun/dsa/tree/master/0825-friends-of-appropriate-ages) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
