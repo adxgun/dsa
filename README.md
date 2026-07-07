@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
+| [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adxgun/dsa/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adxgun/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
+| [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/adxgun/dsa/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/adxgun/dsa/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 ## Interactive
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/adxgun/dsa/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/adxgun/dsa/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 ## Union-Find
@@ -508,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Suffix Array
+|  |
+| ------- |
+| [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 <!---LeetCode Topics End-->
