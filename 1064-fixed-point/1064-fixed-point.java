@@ -6,8 +6,7 @@ class Solution {
             if (arr[mid] == mid) {
                 answer = mid;
                 hi = mid - 1;
-            }
-            else if (arr[mid] < mid) lo = mid + 1;
+            } else if (arr[mid] < mid) lo = mid + 1;
             else hi = mid - 1;
         }
         return answer;
