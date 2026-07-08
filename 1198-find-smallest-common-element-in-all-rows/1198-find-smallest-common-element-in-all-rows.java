@@ -8,7 +8,7 @@ class Solution {
             for (int i = 1; i < mat.length; i++) {
                 if (!search(mat[i], x)) {
                     inAll = false;
-                    continue;
+                    break;
                 }
             }
 
