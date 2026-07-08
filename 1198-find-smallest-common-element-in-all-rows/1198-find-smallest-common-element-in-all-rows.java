@@ -1,6 +1,7 @@
 class Solution {
     public int smallestCommonElement(int[][] mat) {
         if (mat.length == 0) return -1;
+        // O(mat[0] . log m * n)
 
         int[] m = mat[0];
         for (int x : m) {
