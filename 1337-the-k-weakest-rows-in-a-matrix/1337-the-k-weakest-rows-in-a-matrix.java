@@ -28,4 +28,16 @@ class Solution {
         }
         return lo;
     }
+
+    public int[] kWeakestRowsB(int[][] mat, int k) {
+        PriorityQueue<Pair<Integer, Integer>> heap = 
+            new PriorityQueue<>((a, b) -> a.getKey() - b.getKey());
+        for (int i = 0; i < mat.length; i++) {
+            heap.offer(new Pair<>(lowerBound(mat[i], 1), i));
+        }
+
+        int[] answer = new int[k];
+        for (int i = 0; i < k; i++) answer[i] = heap.poll().getValue();
+        return answer;
+    }
 }
