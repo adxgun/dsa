@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adxgun/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adxgun/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adxgun/dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adxgun/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adxgun/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adxgun/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/adxgun/dsa/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adxgun/dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adxgun/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adxgun/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adxgun/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adxgun/dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adxgun/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adxgun/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
 |  |
