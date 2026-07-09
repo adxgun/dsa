@@ -8,7 +8,7 @@
  */
 
 class Solution {
-    public int leftMostColumnWithOneA(BinaryMatrix binaryMatrix) {
+    public int leftMostColumnWithOne(BinaryMatrix binaryMatrix) {
         List<Integer> dim = binaryMatrix.dimensions();
         int rows = dim.get(0), cols = dim.get(1);
 
@@ -26,7 +26,7 @@ class Solution {
         return result;
     }
 
-    public int leftMostColumnWithOne(BinaryMatrix binaryMatrix) {
+    public int leftMostColumnWithOneB(BinaryMatrix binaryMatrix) {
         List<Integer> dim = binaryMatrix.dimensions();
         int rows = dim.get(0), cols = dim.get(1);
 
