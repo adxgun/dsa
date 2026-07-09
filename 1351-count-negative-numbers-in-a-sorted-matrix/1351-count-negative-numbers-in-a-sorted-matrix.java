@@ -3,7 +3,6 @@ class Solution {
         int count = 0;
         for (int[] gd : grid) {
             int start = lowerBound(gd, -1);
-            System.out.println(start);
             count += (gd.length - start);
         }
         return count;
