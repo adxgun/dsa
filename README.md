@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adxgun/dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adxgun/dsa/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1426-counting-elements](https://github.com/adxgun/dsa/tree/master/1426-counting-elements) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adxgun/dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adxgun/dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adxgun/dsa/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1426-counting-elements](https://github.com/adxgun/dsa/tree/master/1426-counting-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adxgun/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
