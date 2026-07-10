@@ -16,7 +16,6 @@ class Solution {
         Arrays.sort(nums);
         for (int i = 0; i < N; i++) {
             int ub = upperBound(nums, i);
-            System.out.println("ub -> " + ub);
             if (n - ub == i) return i;
         }
         return -1;
