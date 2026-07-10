@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adxgun/dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1833-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/adxgun/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adxgun/dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/adxgun/dsa/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/adxgun/dsa/tree/master/1533-find-the-index-of-the-large-integer) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/adxgun/dsa/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/adxgun/dsa/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 ## Hash Function
