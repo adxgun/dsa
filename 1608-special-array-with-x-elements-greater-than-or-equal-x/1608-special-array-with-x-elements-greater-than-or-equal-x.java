@@ -12,11 +12,10 @@ class Solution {
 
     public int specialArray(int[] nums) {
         int n = nums.length;
-        int N = 1000;
         Arrays.sort(nums);
-        for (int i = 0; i < N; i++) {
-            int ub = upperBound(nums, i);
-            if (n - ub == i) return i;
+        for (int i = 0; i <= n; i++) {
+            int firstGE = upperBound(nums, i);
+            if (n - firstGE == i) return i;
         }
         return -1;
     }
