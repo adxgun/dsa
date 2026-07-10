@@ -13,6 +13,7 @@ class Solution {
     public int specialArray(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
+        
         for (int i = 0; i <= n; i++) {
             int firstGE = upperBound(nums, i);
             if (n - firstGE == i) return i;
