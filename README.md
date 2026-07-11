@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1818-minimum-absolute-sum-difference](https://github.com/adxgun/dsa/tree/master/1818-minimum-absolute-sum-difference) |
 | [1833-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1833-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/adxgun/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adxgun/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/adxgun/dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/adxgun/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/adxgun/dsa/tree/master/1818-minimum-absolute-sum-difference) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
 | [0826-most-profit-assigning-work](https://github.com/adxgun/dsa/tree/master/0826-most-profit-assigning-work) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adxgun/dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1818-minimum-absolute-sum-difference](https://github.com/adxgun/dsa/tree/master/1818-minimum-absolute-sum-difference) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -534,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adxgun/dsa/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1833-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/adxgun/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
