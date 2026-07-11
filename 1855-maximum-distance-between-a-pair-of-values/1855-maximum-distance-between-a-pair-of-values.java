@@ -4,7 +4,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             // return the first idx of elem in nums2 >= x
             int idx = lower(nums2, nums1[i]);
-            System.out.println("Pair => " + i + ", " + idx);
             if (i <= idx && nums1[i] <= nums2[idx]) dist = Math.max(dist, idx - i);
         }
         return dist;
