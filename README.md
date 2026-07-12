@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/adxgun/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1885-count-pairs-in-two-arrays](https://github.com/adxgun/dsa/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/adxgun/dsa/tree/master/1891-cutting-ribbons) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/adxgun/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/adxgun/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1885-count-pairs-in-two-arrays](https://github.com/adxgun/dsa/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/adxgun/dsa/tree/master/1891-cutting-ribbons) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2574-left-and-right-sum-differences](https://github.com/adxgun/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
@@ -680,4 +683,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/adxgun/dsa/tree/master/0415-add-strings) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
