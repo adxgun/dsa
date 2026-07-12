@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adxgun/dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/adxgun/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1885-count-pairs-in-two-arrays](https://github.com/adxgun/dsa/tree/master/1885-count-pairs-in-two-arrays) |
+| [1891-cutting-ribbons](https://github.com/adxgun/dsa/tree/master/1891-cutting-ribbons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/adxgun/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adxgun/dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/adxgun/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1885-count-pairs-in-two-arrays](https://github.com/adxgun/dsa/tree/master/1885-count-pairs-in-two-arrays) |
+| [1891-cutting-ribbons](https://github.com/adxgun/dsa/tree/master/1891-cutting-ribbons) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
