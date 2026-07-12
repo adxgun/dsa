@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/adxgun/dsa/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adxgun/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adxgun/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/adxgun/dsa/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/adxgun/dsa/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/adxgun/dsa/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/adxgun/dsa/tree/master/0911-online-election) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/adxgun/dsa/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adxgun/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adxgun/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/adxgun/dsa/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/adxgun/dsa/tree/master/0888-fair-candy-swap) |
 | [0911-online-election](https://github.com/adxgun/dsa/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
