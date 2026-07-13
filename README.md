@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1918-kth-smallest-subarray-sum](https://github.com/adxgun/dsa/tree/master/1918-kth-smallest-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/adxgun/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adxgun/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adxgun/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1918-kth-smallest-subarray-sum](https://github.com/adxgun/dsa/tree/master/1918-kth-smallest-subarray-sum) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adxgun/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/adxgun/dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1891-cutting-ribbons](https://github.com/adxgun/dsa/tree/master/1891-cutting-ribbons) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1918-kth-smallest-subarray-sum](https://github.com/adxgun/dsa/tree/master/1918-kth-smallest-subarray-sum) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
