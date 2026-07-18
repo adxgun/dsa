@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
