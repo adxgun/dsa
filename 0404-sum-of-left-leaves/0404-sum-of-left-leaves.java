@@ -26,6 +26,7 @@ class Solution {
 
         // 
         if (root.left != null && root.left.left == null && root.left.right == null) {
+            // found a left leaf node, accumulate its value
             sum += root.left.val;
         }
 
