@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adxgun/dsa/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adxgun/dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/adxgun/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adxgun/dsa/tree/master/0040-combination-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Stack
 |  |
 | ------- |
@@ -703,12 +705,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
