@@ -25,7 +25,6 @@ class Solution {
         if (root == null) return;
 
         dfs(root.left);
-        System.out.println(root.val);
         res.add(root.val);
         dfs(root.right);
     }
