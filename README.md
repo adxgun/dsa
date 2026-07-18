@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adxgun/dsa/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adxgun/dsa/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adxgun/dsa/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adxgun/dsa/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
