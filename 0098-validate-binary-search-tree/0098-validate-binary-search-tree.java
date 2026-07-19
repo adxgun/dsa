@@ -21,7 +21,9 @@ class Solution {
     private boolean dfs(TreeNode root, long low, long high) {
         if (root == null) return true;
         if (root.val <= low || root.val >= high) return false;
-        return dfs(root.left, low, root.val) &&
-            dfs(root.right, root.val, high);
+
+        boolean leftValid = dfs(root.left, low, root.val);
+        boolean rightValid = dfs(root.right, root.val, high);
+        return leftValid && rightValid;
     }
 }
