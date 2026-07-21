@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
+| [0270-closest-binary-search-tree-value](https://github.com/adxgun/dsa/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/adxgun/dsa/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/adxgun/dsa/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/adxgun/dsa/tree/master/0287-find-the-duplicate-number) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/adxgun/dsa/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/adxgun/dsa/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/adxgun/dsa/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/adxgun/dsa/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/adxgun/dsa/tree/master/0250-count-univalue-subtrees) |
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/adxgun/dsa/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -838,4 +842,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adxgun/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/adxgun/dsa/tree/master/0270-closest-binary-search-tree-value) |
 <!---LeetCode Topics End-->
