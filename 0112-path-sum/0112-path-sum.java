@@ -25,6 +25,8 @@ class Solution {
     private void dfs(TreeNode root) {
         if (root == null) return;
 
+        if (hasSum) return;
+
         sum += root.val;
         if (root.left == null && root.right == null && sum == target) hasSum = true;
 
