@@ -15,7 +15,6 @@
  */
 class Solution {
     
-    PriorityQueue<Integer> q = new PriorityQueue<>(Collections.reverseOrder());
     int k = 0, inOrderLen = 0, kthSmallest = -1;
 
     public int kthSmallest(TreeNode root, int k) {
@@ -33,7 +32,5 @@ class Solution {
         inOrderLen++;
         if (inOrderLen == k) kthSmallest = root.val;
         dfs(root.right);
-        // q.offer(root.val);
-        // if (q.size() > k) q.poll();
     }
 }
