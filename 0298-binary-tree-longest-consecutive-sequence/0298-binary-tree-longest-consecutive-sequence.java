@@ -15,16 +15,16 @@
  */
 class Solution {
     int best = 0;
-    public int longestConsecutive(TreeNode root) {
-        dfs(root);
+    public int longestConsecutiveA(TreeNode root) {
+        dfsA(root);
         return best;
     }
 
-    private int dfs(TreeNode root) {
+    private int dfsA(TreeNode root) {
         if (root == null) return 0;
 
-        int left = dfs(root.left);
-        int right = dfs(root.right);
+        int left = dfsA(root.left);
+        int right = dfsA(root.right);
 
         int len = 1;
         if (root.left != null && root.left.val == root.val + 1) {
@@ -36,5 +36,19 @@ class Solution {
 
         best = Math.max(len, best);
         return len;
+    }
+
+    private int maxLength = 0;
+    public int longestConsecutive(TreeNode root) {
+        dfs(root, null, 0);
+        return maxLength;
+    }
+
+    private void dfs(TreeNode p, TreeNode parent, int length) {
+        if (p == null) return;
+        length = (parent != null && p.val == parent.val + 1) ? length + 1 : 1;
+        maxLength = Math.max(maxLength, length);
+        dfs(p.left, p, length);
+        dfs(p.right, p, length);
     }
 }
