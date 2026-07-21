@@ -17,15 +17,15 @@ class Solution {
     
     PriorityQueue<Integer> q = new PriorityQueue<>(Collections.reverseOrder());
     int k = 0;
+
     public int kthSmallest(TreeNode root, int k) {
         this.k = k;
         dfs(root);
-        return q.peek();
+        return q.poll();
     }
 
     private void dfs(TreeNode root) {
         if (root == null) return;
-
 
         dfs(root.left);
         dfs(root.right);
