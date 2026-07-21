@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/adxgun/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adxgun/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/adxgun/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/adxgun/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/adxgun/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
