@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/adxgun/dsa/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/adxgun/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/adxgun/dsa/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
 |  |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
 |  |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -837,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
+| [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
