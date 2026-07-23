@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
