@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-fixed-point](https://github.com/adxgun/dsa/tree/master/1064-fixed-point) |
 | [1086-high-five](https://github.com/adxgun/dsa/tree/master/1086-high-five) |
 | [1099-two-sum-less-than-k](https://github.com/adxgun/dsa/tree/master/1099-two-sum-less-than-k) |
+| [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/adxgun/dsa/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/adxgun/dsa/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
 | [1086-high-five](https://github.com/adxgun/dsa/tree/master/1086-high-five) |
+| [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/adxgun/dsa/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1367-linked-list-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1367-linked-list-in-binary-tree) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1367-linked-list-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1367-linked-list-in-binary-tree) |
@@ -859,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/adxgun/dsa/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1367-linked-list-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1367-linked-list-in-binary-tree) |
