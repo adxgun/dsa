@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adxgun/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adxgun/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/adxgun/dsa/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adxgun/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adxgun/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/adxgun/dsa/tree/master/0436-find-right-interval) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adxgun/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/adxgun/dsa/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -668,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adxgun/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
@@ -707,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/adxgun/dsa/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
@@ -734,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Suffix Array
 |  |
 | ------- |
