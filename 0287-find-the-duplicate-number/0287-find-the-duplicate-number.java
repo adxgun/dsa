@@ -1,6 +1,6 @@
 class Solution {
 
-    public int findDuplicate(int[] nums) {
+    public int findDuplicate1(int[] nums) {
         Arrays.sort(nums);
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1]) return nums[i];
@@ -8,7 +8,7 @@ class Solution {
         return -1;
     }
 
-    public int findDuplicate1(int[] nums) {
+    public int findDuplicate(int[] nums) {
         int lo = 1, hi = nums.length - 1;
 
         while (lo < hi) {
