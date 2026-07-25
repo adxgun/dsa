@@ -25,9 +25,6 @@ class Solution {
         }
     }
     
-    TreeNode res;
-    int minDepth = Integer.MAX_VALUE;
-    
     public TreeNode subtreeWithAllDeepest(TreeNode root) {
         if (root == null) return null;
         Result res = dfs(root);
