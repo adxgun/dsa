@@ -15,7 +15,6 @@
  */
 class Solution {
 
-    StringBuilder sb = new StringBuilder();
     public String tree2str(TreeNode root) {
         if (root == null) return "";
         if (root.left == null && root.right == null) return root.val + "";
