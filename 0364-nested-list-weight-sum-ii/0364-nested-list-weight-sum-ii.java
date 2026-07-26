@@ -31,7 +31,6 @@ class Solution {
     int maxDepth = 1, depth = 1;
     public int depthSumInverse(List<NestedInteger> nestedList) {
         maxDepth(nestedList);
-        System.out.println(maxDepth);
         return dfs(nestedList, 1);
     }
 
