@@ -14,10 +14,10 @@
  * }
  */
 class Solution {
-    public List<Integer> largestValues(TreeNode root) {
+    public List<Integer> largestValuesA(TreeNode root) {
         // map of row -> max heap
         Map<Integer, PriorityQueue<Integer>> rows = new HashMap<>();
-        dfs(root, 0, rows);
+        dfsA(root, 0, rows);
 
         List<Integer> res = new ArrayList<>();
         for (Map.Entry<Integer, PriorityQueue<Integer>> entry : rows.entrySet()) {
@@ -26,7 +26,7 @@ class Solution {
         return res;
     }
 
-    private void dfs(TreeNode root, int row, Map<Integer, PriorityQueue<Integer>> rows) {
+    private void dfsA(TreeNode root, int row, Map<Integer, PriorityQueue<Integer>> rows) {
         if (root == null) return;
 
         if (rows.get(row) == null) {
@@ -34,7 +34,28 @@ class Solution {
         }
 
         rows.get(row).offer(root.val);
-        dfs(root.left, row + 1, rows);
-        dfs(root.right, row + 1, rows);
+        dfsA(root.left, row + 1, rows);
+        dfsA(root.right, row + 1, rows);
+    }
+
+    public List<Integer> largestValues(TreeNode root) {
+        Map<Integer, Integer> rowMax = new HashMap<>();  // row -> max value so far
+        dfs(root, 0, rowMax);
+
+        List<Integer> res = new ArrayList<>();
+        for (int r = 0; r < rowMax.size(); r++) {
+            res.add(rowMax.get(r));
+        }
+        return res;
+    }
+
+    private void dfs(TreeNode node, int row, Map<Integer, Integer> rowMax) {
+        if (node == null) return;
+
+        // Update this row's max
+        rowMax.merge(row, node.val, Math::max);   // put node.val, or max with existing
+
+        dfs(node.left,  row + 1, rowMax);
+        dfs(node.right, row + 1, rowMax);
     }
 }
