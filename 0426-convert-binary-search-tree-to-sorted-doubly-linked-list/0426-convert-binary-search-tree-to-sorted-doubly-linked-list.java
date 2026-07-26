@@ -21,15 +21,15 @@ class Node {
 
 class Solution {
 
-    private Node first = null;
-    private Node prev = null;
+    private Node first = null; // first element aka smallest value
+    private Node prev = null; // last element via in-order traversal of BST - a.k.a largest value
 
     public Node treeToDoublyList(Node root) {
         if (root == null) return null;
         dfs(root);
 
-        first.left = prev;
-        prev.right = first;
+        first.left = prev; // link first element to the last element
+        prev.right = first; // link last element to the first;
         return first;
     }
 
@@ -38,9 +38,9 @@ class Solution {
 
         dfs(root.left);
 
-        if (prev != null) {
-            root.left = prev;
-            prev.right = root;
+        if (prev != null) { // not the first element or the first leave node
+            root.left = prev; // make it the previous value
+            prev.right = root; // set current value as next
         } else first = root;
 
         prev = root;
