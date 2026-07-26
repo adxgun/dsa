@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/adxgun/dsa/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/adxgun/dsa/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/adxgun/dsa/tree/master/1213-intersection-of-three-sorted-arrays) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
 | [0826-most-profit-assigning-work](https://github.com/adxgun/dsa/tree/master/0826-most-profit-assigning-work) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/adxgun/dsa/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adxgun/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/adxgun/dsa/tree/master/1046-last-stone-weight) |
 | [1086-high-five](https://github.com/adxgun/dsa/tree/master/1086-high-five) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/adxgun/dsa/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
