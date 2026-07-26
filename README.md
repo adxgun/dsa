@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adxgun/dsa/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/adxgun/dsa/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/adxgun/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
 | [0911-online-election](https://github.com/adxgun/dsa/tree/master/0911-online-election) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/adxgun/dsa/tree/master/0385-mini-parser) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -933,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/adxgun/dsa/tree/master/0333-largest-bst-subtree) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -975,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/adxgun/dsa/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/adxgun/dsa/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/adxgun/dsa/tree/master/0617-merge-two-binary-trees) |
@@ -995,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/adxgun/dsa/tree/master/0285-inorder-successor-in-bst) |
 | [0333-largest-bst-subtree](https://github.com/adxgun/dsa/tree/master/0333-largest-bst-subtree) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
 ## Iterator
 |  |
