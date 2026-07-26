@@ -48,7 +48,7 @@ class Solution {
     int maxDepth(List<NestedInteger> nestedList) {
         int max = 1;
         for (NestedInteger ni : nestedList) {
-            if (!ni.isInteger() && ni.getList().size() > 0) {
+            if (!ni.isInteger()) {
                 max = Math.max(max, 1 + maxDepth(ni.getList()));
             }
         }
