@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/adxgun/dsa/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/adxgun/dsa/tree/master/0333-largest-bst-subtree) |
+| [0339-nested-list-weight-sum](https://github.com/adxgun/dsa/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/adxgun/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adxgun/dsa/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0339-nested-list-weight-sum](https://github.com/adxgun/dsa/tree/master/0339-nested-list-weight-sum) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/adxgun/dsa/tree/master/0559-maximum-depth-of-n-ary-tree) |
