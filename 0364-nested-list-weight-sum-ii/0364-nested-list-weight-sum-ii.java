@@ -28,32 +28,30 @@
  */
 class Solution {
 
-    int maxDepth = 1, depth = 1;
     public int depthSumInverse(List<NestedInteger> nestedList) {
-        maxDepth(nestedList);
-        return dfs(nestedList, 1);
+        int max = maxDepth(nestedList);
+        return dfs(nestedList, 1, max);
     }
 
-    private int dfs(List<NestedInteger> list, int depth) {
+    private int dfs(List<NestedInteger> list, int depth, int maxDepth) {
         int sum = 0;
         for (NestedInteger ni : list) {
             if (ni.isInteger()) {
                 int weight = (maxDepth - depth + 1);
                 sum += weight * ni.getInteger();
             }
-            else sum += dfs(ni.getList(), depth + 1);
+            else sum += dfs(ni.getList(), depth + 1, maxDepth);
         }
         return sum;
     }
 
-    void maxDepth(List<NestedInteger> nestedList) {
+    int maxDepth(List<NestedInteger> nestedList) {
+        int max = 1;
         for (NestedInteger ni : nestedList) {
-            if (!ni.isInteger()) {
-                depth++;
-                maxDepth = Math.max(depth, maxDepth);
-                maxDepth(ni.getList());
-                depth--;
+            if (!ni.isInteger() && ni.getList().size() > 0) {
+                max = Math.max(max, 1 + maxDepth(ni.getList()));
             }
         }
+        return max;
     }
 }
