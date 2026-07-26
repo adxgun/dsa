@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adxgun/dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0385-mini-parser](https://github.com/adxgun/dsa/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/adxgun/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
+| [0385-mini-parser](https://github.com/adxgun/dsa/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/adxgun/dsa/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
+| [0385-mini-parser](https://github.com/adxgun/dsa/tree/master/0385-mini-parser) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
