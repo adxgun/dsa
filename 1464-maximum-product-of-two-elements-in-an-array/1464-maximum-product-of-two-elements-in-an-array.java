@@ -7,7 +7,7 @@ class Solution {
         return (i - 1) * (j - 1);
     }
 
-    public int maxProduct(int[] nums) {
+    public int maxProductB(int[] nums) {
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>();
         for (int x : nums) {
             maxHeap.offer(x);
@@ -15,5 +15,19 @@ class Solution {
         }
 
         return (maxHeap.poll() - 1) * (maxHeap.poll() - 1);
+    }
+
+    public int maxProduct(int[] nums) {
+        int max = 0, maxTwo = 0;
+        for (int x : nums) {
+            if (x > max) {
+                maxTwo = max;
+                max = x;
+            } else {
+                maxTwo = Math.max(x, maxTwo);
+            }
+        }
+
+        return (max - 1) * (maxTwo - 1);
     }
 }
