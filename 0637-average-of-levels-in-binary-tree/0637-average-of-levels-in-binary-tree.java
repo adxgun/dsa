@@ -1,45 +1,23 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    
-    private Map<Integer, List<Integer>> rows = new HashMap<>();
+    private List<long[]> rows = new ArrayList<>();  // each entry: {sum, count}
+
     public List<Double> averageOfLevels(TreeNode root) {
         dfs(root, 0);
-
         List<Double> result = new ArrayList<>();
-        for (Map.Entry<Integer, List<Integer>> entry : rows.entrySet()) {
-            result.add(average(entry.getValue()));
+        for (long[] r : rows) {
+            result.add((double) r[0] / r[1]);
         }
         return result;
     }
 
-    private void dfs(TreeNode root, int row) {
-        if (root == null) return;
-        
-        rows.computeIfAbsent(row, (a) -> new ArrayList<>()).add(root.val);
-        dfs(root.left, row + 1);
-        dfs(root.right, row + 1);
-    }
-
-    private double average(List<Integer> ls) {
-        long sum = 0;
-        for (int x : ls) {
-            sum += x;
+    private void dfs(TreeNode node, int row) {
+        if (node == null) return;
+        if (row == rows.size()) {
+            rows.add(new long[]{0, 0});   // first node seen at this row
         }
-
-        return (double) sum / ls.size();
+        rows.get(row)[0] += node.val;     // sum
+        rows.get(row)[1] += 1;            // count
+        dfs(node.left,  row + 1);
+        dfs(node.right, row + 1);
     }
 }
