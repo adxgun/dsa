@@ -19,7 +19,7 @@ class Solution {
     private int[] preSum;
     private int inOrderIdx = 0, n = 0;
 
-    public TreeNode convertBST(TreeNode root) {
+    public TreeNode convertBSTA(TreeNode root) {
         nodes = new ArrayList<>();
         collectNodes(root);
         preSum = new int[nodes.size() + 1];
@@ -48,5 +48,20 @@ class Solution {
         inOrderIdx++;
         root.val = root.val + (preSum[n] - preSum[inOrderIdx]);
         dfs(root.right);
+    }
+
+    private int runningSum = 0;
+    public TreeNode convertBST(TreeNode root) {
+        convert(root);
+        return root;
+    }
+
+    private void convert(TreeNode root) {
+        if (root == null) return;
+
+        convert(root.right);
+        runningSum += root.val;
+        root.val = runningSum;
+        convert(root.left);
     }
 }
