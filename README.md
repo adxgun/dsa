@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/adxgun/dsa/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/adxgun/dsa/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/adxgun/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/adxgun/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/adxgun/dsa/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/adxgun/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/adxgun/dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
