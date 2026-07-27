@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/adxgun/dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-counting-elements](https://github.com/adxgun/dsa/tree/master/1426-counting-elements) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adxgun/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adxgun/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adxgun/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adxgun/dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adxgun/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adxgun/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adxgun/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adxgun/dsa/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adxgun/dsa/tree/master/1552-magnetic-force-between-two-balls) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1167-minimum-cost-to-connect-sticks](https://github.com/adxgun/dsa/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adxgun/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
