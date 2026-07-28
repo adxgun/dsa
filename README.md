@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/adxgun/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/adxgun/dsa/tree/master/0663-equal-tree-partition) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/adxgun/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/adxgun/dsa/tree/master/0663-equal-tree-partition) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/adxgun/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/adxgun/dsa/tree/master/0663-equal-tree-partition) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/adxgun/dsa/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
