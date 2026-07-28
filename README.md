@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -1057,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/adxgun/dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
 ## Iterator
 |  |
