@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/adxgun/dsa/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/adxgun/dsa/tree/master/0965-univalued-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/adxgun/dsa/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/adxgun/dsa/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/adxgun/dsa/tree/master/0965-univalued-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/adxgun/dsa/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/adxgun/dsa/tree/master/0965-univalued-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0965-univalued-binary-tree](https://github.com/adxgun/dsa/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
