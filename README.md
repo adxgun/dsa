@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/adxgun/dsa/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/adxgun/dsa/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/adxgun/dsa/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
