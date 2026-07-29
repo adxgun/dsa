@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
 | [0826-most-profit-assigning-work](https://github.com/adxgun/dsa/tree/master/0826-most-profit-assigning-work) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/adxgun/dsa/tree/master/1167-minimum-cost-to-connect-sticks) |
+| [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/adxgun/dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/adxgun/dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/adxgun/dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -1121,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/adxgun/dsa/tree/master/1214-two-sum-bsts) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/adxgun/dsa/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
