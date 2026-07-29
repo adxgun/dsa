@@ -16,9 +16,23 @@
 class Solution {
     int maxDepth = 0, deepestSum = 0, depth = 0;
     public int deepestLeavesSum(TreeNode root) {
-        findMaxDepth(root, 0);
-        dfs(root, 0);
+        // findMaxDepth(root, 0);
+        dfs1(root, 0);
         return deepestSum;
+    }
+
+    private void dfs1(TreeNode root, int depth) {
+        if (root == null) return;
+
+        if (depth > maxDepth) {
+            maxDepth = depth;
+            deepestSum = root.val;
+        } else if (depth == maxDepth) {
+            deepestSum += root.val;
+        }
+
+        dfs1(root.left, depth + 1);
+        dfs1(root.right, depth + 1);
     }
 
     private void findMaxDepth(TreeNode root, int depth) {
