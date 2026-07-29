@@ -26,7 +26,5 @@ class Solution {
         runningSum += root.val;
         root.val = runningSum;
         dfs(root.left);
-
-        // runningSum -= root.val;
     }
 }
