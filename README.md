@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/adxgun/dsa/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
+| [1120-maximum-average-subtree](https://github.com/adxgun/dsa/tree/master/1120-maximum-average-subtree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adxgun/dsa/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/adxgun/dsa/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
+| [1120-maximum-average-subtree](https://github.com/adxgun/dsa/tree/master/1120-maximum-average-subtree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adxgun/dsa/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/adxgun/dsa/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
+| [1120-maximum-average-subtree](https://github.com/adxgun/dsa/tree/master/1120-maximum-average-subtree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adxgun/dsa/tree/master/1325-delete-leaves-with-a-given-value) |
