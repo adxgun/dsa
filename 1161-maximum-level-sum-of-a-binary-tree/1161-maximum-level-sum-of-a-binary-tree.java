@@ -23,7 +23,6 @@ class Solution {
 
         int maxSum = Integer.MIN_VALUE;
         for (Map.Entry<Integer, Integer> entry : levelSums.entrySet()) {
-            System.out.println(entry.getKey() + " : " + entry.getValue());
             if (entry.getValue() > maxSum) {
                 maxSum = entry.getValue();
                 smallestLevel = entry.getKey();
