@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-maximum-binary-tree-ii](https://github.com/adxgun/dsa/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adxgun/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adxgun/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-maximum-binary-tree-ii](https://github.com/adxgun/dsa/tree/master/0998-maximum-binary-tree-ii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/adxgun/dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adxgun/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/adxgun/dsa/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Iterator
 |  |
 | ------- |
