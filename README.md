@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/adxgun/dsa/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/adxgun/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/adxgun/dsa/tree/master/0724-find-pivot-index) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/adxgun/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0888-fair-candy-swap](https://github.com/adxgun/dsa/tree/master/0888-fair-candy-swap) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [1367-linked-list-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1367-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adxgun/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
 | [0911-online-election](https://github.com/adxgun/dsa/tree/master/0911-online-election) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/adxgun/dsa/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/adxgun/dsa/tree/master/3037-find-pattern-in-infinite-stream-ii) |
