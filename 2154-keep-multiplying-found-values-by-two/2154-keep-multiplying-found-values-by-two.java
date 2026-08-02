@@ -1,9 +1,9 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
-        Map<Integer, Integer> values = new HashMap<>();
-        for (int x : nums) values.put(x, x);
+        Set<Integer> values = new HashSet<>();
+        for (int x : nums) values.add(x);
 
-        while (values.get(original) != null) {
+        while (values.contains(original)) {
             original *= 2;
         }
         return original;
