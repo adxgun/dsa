@@ -1,22 +1,39 @@
 class MyHashMap {
 
-    private int KEY = 1_000_000;
-    private int[] data;
+    private static final int SIZE = 769;
+    private LinkedList<int[]>[] buckets;
     public MyHashMap() {
-        data = new int[KEY + 1];
-        Arrays.fill(data, -1);
+        buckets = new LinkedList[SIZE];
+        for (int i = 0; i < SIZE; i++) buckets[i] = new LinkedList<>();
+    }
+
+    private int hash(int key) {
+        return key % SIZE;
     }
     
     public void put(int key, int value) {
-        data[key] = value;
+        LinkedList<int[]> bucket = buckets[hash(key)];
+        for (int[] entry : bucket) {
+            if (entry[0] == key) {
+                entry[1] = value;
+                return;
+            }
+        }
+
+        bucket.add(new int[]{key, value});
     }
     
     public int get(int key) {
-        return data[key];
+        LinkedList<int[]> bucket = buckets[hash(key)];
+        for (int[] entry : bucket) {
+            if (entry[0] == key) return entry[1];
+        }
+        return -1;
     }
     
     public void remove(int key) {
-        data[key] = -1;
+        LinkedList<int[]> bucket = buckets[hash(key)];
+        bucket.removeIf(entry -> entry[0] == key);
     }
 }
 
