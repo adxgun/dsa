@@ -16,7 +16,7 @@ class Solution {
         int n = s.length();
         int[] res = new int[n - 1];
         for (int i = 1; i < n; i++) {
-            res[i - 1] = (s.charAt(i) - '0') - (s.charAt(i - 1) - '0');
+            res[i - 1] = s.charAt(i) - s.charAt(i - 1);
         }
         return res;
     }
