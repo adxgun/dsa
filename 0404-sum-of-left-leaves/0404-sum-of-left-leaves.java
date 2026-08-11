@@ -16,7 +16,7 @@
 class Solution {
 
     int sum = 0;
-    public int sumOfLeftLeaves(TreeNode root) {
+    public int sumOfLeftLeaves1(TreeNode root) {
         dfs(root);
         return sum;
     }
@@ -32,5 +32,29 @@ class Solution {
 
         dfs(root.left);
         dfs(root.right);
+    }
+
+    public int sumOfLeftLeaves(TreeNode root) {
+        if (root == null) return 0;
+        
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+
+        int sum = 0;
+        while (!q.isEmpty()) {
+            int sz = q.size();
+            for (int i = 0; i < sz; i++) {
+                TreeNode cur = q.poll();
+                if (isLeaf(cur.left)) sum += cur.left.val;
+
+                if (cur.left != null) q.offer(cur.left);
+                if (cur.right != null) q.offer(cur.right);
+            }
+        }
+        return sum;
+    }
+
+    private boolean isLeaf(TreeNode node) {
+        return node != null && node.left == null && node.right == null;
     }
 }
