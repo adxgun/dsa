@@ -38,7 +38,7 @@ class Solution {
         dfsA(root.right, row + 1, rows);
     }
 
-    public List<Integer> largestValues(TreeNode root) {
+    public List<Integer> largestValues1(TreeNode root) {
         Map<Integer, Integer> rowMax = new HashMap<>();  // row -> max value so far
         dfs(root, 0, rowMax);
 
@@ -57,5 +57,25 @@ class Solution {
 
         dfs(node.left,  row + 1, rowMax);
         dfs(node.right, row + 1, rowMax);
+    }
+
+    public List<Integer> largestValues(TreeNode root) {
+        if (root == null) return Arrays.asList();
+        
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.offer(root);
+        List<Integer> res = new ArrayList<>();
+        while (!q.isEmpty()) {
+            int currentMax = Integer.MIN_VALUE, sz = q.size();
+            for (int i = 0; i < sz; i++) {
+                TreeNode cur = q.poll();
+                currentMax = Math.max(currentMax, cur.val);
+
+                if (cur.left != null) q.offer(cur.left);
+                if (cur.right != null) q.offer(cur.right);
+            }
+            res.add(currentMax);
+        }
+        return res;
     }
 }
