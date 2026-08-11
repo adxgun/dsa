@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/adxgun/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adxgun/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adxgun/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adxgun/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/adxgun/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adxgun/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adxgun/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adxgun/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adxgun/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/adxgun/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adxgun/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adxgun/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adxgun/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adxgun/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/adxgun/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adxgun/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adxgun/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adxgun/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adxgun/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adxgun/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -1153,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adxgun/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adxgun/dsa/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/adxgun/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adxgun/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/adxgun/dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/adxgun/dsa/tree/master/0199-binary-tree-right-side-view) |
