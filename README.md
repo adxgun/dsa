@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adxgun/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/adxgun/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/adxgun/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adxgun/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adxgun/dsa/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/adxgun/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/adxgun/dsa/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/adxgun/dsa/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/adxgun/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/adxgun/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adxgun/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1254,4 +1257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/adxgun/dsa/tree/master/0797-all-paths-from-source-to-target) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/adxgun/dsa/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
