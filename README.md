@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adxgun/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1263,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/adxgun/dsa/tree/master/0133-clone-graph) |
 | [0797-all-paths-from-source-to-target](https://github.com/adxgun/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/adxgun/dsa/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
