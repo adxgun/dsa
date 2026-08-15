@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adxgun/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/adxgun/dsa/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/adxgun/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/adxgun/dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/adxgun/dsa/tree/master/0994-rotting-oranges) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adxgun/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/adxgun/dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/adxgun/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bucket Sort
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adxgun/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adxgun/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adxgun/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/adxgun/dsa/tree/master/0226-invert-binary-tree) |
@@ -1193,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/adxgun/dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/adxgun/dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/adxgun/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adxgun/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adxgun/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/adxgun/dsa/tree/master/0226-invert-binary-tree) |
