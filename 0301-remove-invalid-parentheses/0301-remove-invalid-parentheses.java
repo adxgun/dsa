@@ -21,7 +21,7 @@ class Solution {
 
                 for (int j = 0; j < cur.length(); j++) {
                     char ch = cur.charAt(j);
-                    if (ch != '(' && ch != ')') continue;
+                    // if (ch != '(' && ch != ')') continue;
 
                     String nei = cur.substring(0, j) + cur.substring(j + 1);
                     System.out.println(nei);
