@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adxgun/dsa/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/adxgun/dsa/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adxgun/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adxgun/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adxgun/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adxgun/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
 | [0333-largest-bst-subtree](https://github.com/adxgun/dsa/tree/master/0333-largest-bst-subtree) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/adxgun/dsa/tree/master/0410-split-array-largest-sum) |
@@ -1204,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/adxgun/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/adxgun/dsa/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/adxgun/dsa/tree/master/0261-graph-valid-tree) |
+| [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/adxgun/dsa/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/adxgun/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -1309,4 +1312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/adxgun/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adxgun/dsa/tree/master/0210-course-schedule-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
