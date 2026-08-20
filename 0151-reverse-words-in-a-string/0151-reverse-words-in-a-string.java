@@ -1,7 +1,7 @@
 import java.util.StringJoiner;
 
 class Solution {
-    public String reverseWords1(String s) {
+    public String reverseWords(String s) {
         Stack<String> words = new Stack<>();
         int n = s.length(), i = 0;
 
@@ -21,7 +21,7 @@ class Solution {
         return result.toString();
     }
 
-    public String reverseWords(String s) {
+    public String reverseWords1(String s) {
         String[] words = s.trim().split("\\s+");
         int left = 0, right = words.length - 1;
         while (left < right) {
