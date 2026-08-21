@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/adxgun/dsa/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/adxgun/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/adxgun/dsa/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0322-coin-change](https://github.com/adxgun/dsa/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/adxgun/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adxgun/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adxgun/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/adxgun/dsa/tree/master/0322-coin-change) |
 | [0333-largest-bst-subtree](https://github.com/adxgun/dsa/tree/master/0333-largest-bst-subtree) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/adxgun/dsa/tree/master/0410-split-array-largest-sum) |
@@ -1225,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/adxgun/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/adxgun/dsa/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/adxgun/dsa/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0322-coin-change](https://github.com/adxgun/dsa/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/adxgun/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/adxgun/dsa/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
@@ -1334,10 +1337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/adxgun/dsa/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/adxgun/dsa/tree/master/0322-coin-change) |
 ## Geometry
 |  |
 | ------- |
