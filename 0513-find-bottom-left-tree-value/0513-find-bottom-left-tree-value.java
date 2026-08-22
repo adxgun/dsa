@@ -32,4 +32,26 @@ class Solution {
         dfs(root.right, depth + 1);
         maxDepth = Math.max(depth, maxDepth);
     }
+
+    public int findBottomLeftValue1(TreeNode root) {
+        if (root == null) return 0;
+        
+        Queue<TreeNode> queue = new ArrayDeque<>();
+        Set<Integer> visited = new HashSet<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
+                if (node.left == null && node.right == null) {
+                    return node.val;
+                }
+
+                if (node.right != null) queue.offer(node.right);
+                if (node.left != null) queue.offer(node.left);
+            }
+        }
+        return 0;
+    }
 }
