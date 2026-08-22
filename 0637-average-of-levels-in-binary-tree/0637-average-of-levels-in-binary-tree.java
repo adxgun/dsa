@@ -1,7 +1,7 @@
 class Solution {
     private List<long[]> rows = new ArrayList<>();  // each entry: {sum, count}
 
-    public List<Double> averageOfLevels(TreeNode root) {
+    public List<Double> averageOfLevels1(TreeNode root) {
         dfs(root, 0);
         List<Double> result = new ArrayList<>();
         for (long[] r : rows) {
@@ -19,5 +19,28 @@ class Solution {
         rows.get(row)[1] += 1;            // count
         dfs(node.left,  row + 1);
         dfs(node.right, row + 1);
+    }
+
+    public List<Double> averageOfLevels(TreeNode root) {
+        if (root == null) return Collections.emptyList();
+        
+        List<Double> res = new ArrayList<>();
+        Queue<TreeNode> queue = new ArrayDeque<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            long sum = 0;
+            for (int i = 0; i < size; i++) {
+                TreeNode cur = queue.poll();
+                sum += cur.val;
+
+                if (cur.left != null) queue.offer(cur.left);
+                if (cur.right != null) queue.offer(cur.right);
+            }
+
+            res.add((sum * 1.0) / size);
+        }
+        return res;
     }
 }
