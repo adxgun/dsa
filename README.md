@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/adxgun/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
+| [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/adxgun/dsa/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0704-binary-search](https://github.com/adxgun/dsa/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0582-kill-process](https://github.com/adxgun/dsa/tree/master/0582-kill-process) |
 | [0652-find-duplicate-subtrees](https://github.com/adxgun/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/adxgun/dsa/tree/master/0752-open-the-lock) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/adxgun/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/adxgun/dsa/tree/master/0814-binary-tree-pruning) |
@@ -1282,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adxgun/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0752-open-the-lock](https://github.com/adxgun/dsa/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adxgun/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/adxgun/dsa/tree/master/0797-all-paths-from-source-to-target) |
