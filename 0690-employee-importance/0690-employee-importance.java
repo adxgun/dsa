@@ -9,12 +9,10 @@ class Employee {
 
 class Solution {
     public int getImportance(List<Employee> employees, int id) {
-        Map<Integer, List<Integer>> graph = new HashMap<>();
-        Map<Integer, Integer> importance = new HashMap<>();
+        Map<Integer, Employee> graph = new HashMap<>();
         
         for (Employee em : employees) {
-            graph.computeIfAbsent(em.id, (k) -> new ArrayList<>()).addAll(em.subordinates);
-            importance.put(em.id, em.importance);
+            graph.put(em.id, em);
         }
 
         Queue<Integer> queue = new ArrayDeque<>();
@@ -22,10 +20,12 @@ class Solution {
 
         int total = 0;
         while (!queue.isEmpty()) {
-            int current = queue.poll();
-            total += importance.getOrDefault(current, 0);
-
-            for (int nei : graph.get(current)) {
+            int curId = queue.poll();
+            Employee current = graph.get(curId);
+            if (current == null) continue;
+            
+            total += current.importance;
+            for (int nei : current.subordinates) {
                 queue.offer(nei);
             }
         }
