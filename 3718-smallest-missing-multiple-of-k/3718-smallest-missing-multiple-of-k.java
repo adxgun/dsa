@@ -4,14 +4,7 @@ class Solution {
         for (int x : nums) values.add(x);
         
         int c = k;
-        while (values.contains(c)) {
-            c = nextMultiple(c + 1, k);
-        }
+        while (values.contains(c)) c += k;
         return c;
     }
-
-    private int nextMultiple(int n, int k) {
-        while (n % k != 0) n++;
-        return n;
-    } 
 }
