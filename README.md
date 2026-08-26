@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adxgun/dsa/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/adxgun/dsa/tree/master/2451-odd-string-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/adxgun/dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
