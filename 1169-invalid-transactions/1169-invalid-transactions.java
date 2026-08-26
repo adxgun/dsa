@@ -25,7 +25,7 @@ class Solution {
             transactions.add(new Transaction(tx));
         }
 
-        Collections.sort(transactions, (a, b) -> b.time - a.time);
+        Collections.sort(transactions, (a, b) -> a.time - b.time);
         List<String> result = new ArrayList<>();
         for (Transaction cur : transactions) {
             boolean invalid = cur.amount > 1000;
