@@ -30,7 +30,7 @@ class Solution {
                 int nr = row + dir[0], nc = col + dir[1];
                 if (nr < 0 || nr >= rows || nc < 0 || nc >= cols || visited[nr][nc]) continue;
 
-                queue.offer(new int[]{nr, nc, distance + 1});
+                queue.offer(new int[]{nr, nc, cell[2] + 1});
                 visited[nr][nc] = true;
             }
         }
