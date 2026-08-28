@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/adxgun/dsa/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adxgun/dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1165-single-row-keyboard](https://github.com/adxgun/dsa/tree/master/1165-single-row-keyboard) |
 | [1169-invalid-transactions](https://github.com/adxgun/dsa/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adxgun/dsa/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adxgun/dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1165-single-row-keyboard](https://github.com/adxgun/dsa/tree/master/1165-single-row-keyboard) |
 | [1169-invalid-transactions](https://github.com/adxgun/dsa/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
