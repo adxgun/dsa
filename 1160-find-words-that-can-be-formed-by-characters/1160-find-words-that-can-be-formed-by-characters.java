@@ -11,8 +11,10 @@ class Solution {
             int[] copy = charsFreq.clone();
             for (int i = 0; i < word.length(); i++) {
                 int c = word.charAt(i) - 'a';
-                if (copy[c] == 0) formed = false;
-                else copy[c]--;
+                if (copy[c] == 0) {
+                    formed = false;
+                    break;
+                } else copy[c]--;
             }
 
             if (formed) total += word.length();
