@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adxgun/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/adxgun/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/adxgun/dsa/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adxgun/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/adxgun/dsa/tree/master/0436-find-right-interval) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/adxgun/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0317-shortest-distance-from-all-buildings](https://github.com/adxgun/dsa/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adxgun/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/adxgun/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adxgun/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adxgun/dsa/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/adxgun/dsa/tree/master/0490-the-maze) |
@@ -1330,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
 | [0365-water-and-jug-problem](https://github.com/adxgun/dsa/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/adxgun/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adxgun/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/adxgun/dsa/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/adxgun/dsa/tree/master/0433-minimum-genetic-mutation) |
