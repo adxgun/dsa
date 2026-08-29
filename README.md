@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adxgun/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [1367-linked-list-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1367-linked-list-in-binary-tree) |
+| [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adxgun/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Queue
 |  |
@@ -1423,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 ## Enumeration
 |  |
 | ------- |
