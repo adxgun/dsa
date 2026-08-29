@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/adxgun/dsa/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/adxgun/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adxgun/dsa/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/adxgun/dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adxgun/dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/adxgun/dsa/tree/master/0056-merge-intervals) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adxgun/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adxgun/dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adxgun/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/adxgun/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/adxgun/dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adxgun/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adxgun/dsa/tree/master/0088-merge-sorted-array) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/adxgun/dsa/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/adxgun/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adxgun/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adxgun/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adxgun/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adxgun/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adxgun/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adxgun/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adxgun/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adxgun/dsa/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adxgun/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adxgun/dsa/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
