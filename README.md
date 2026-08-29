@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adxgun/dsa/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adxgun/dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
 | [1426-counting-elements](https://github.com/adxgun/dsa/tree/master/1426-counting-elements) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/adxgun/dsa/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adxgun/dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/adxgun/dsa/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rolling Hash
 |  |
