@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/adxgun/dsa/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/adxgun/dsa/tree/master/0911-online-election) |
+| [0934-shortest-bridge](https://github.com/adxgun/dsa/tree/master/0934-shortest-bridge) |
 | [0977-squares-of-a-sorted-array](https://github.com/adxgun/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/adxgun/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/adxgun/dsa/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/adxgun/dsa/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/adxgun/dsa/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0934-shortest-bridge](https://github.com/adxgun/dsa/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/adxgun/dsa/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
@@ -1186,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/adxgun/dsa/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/adxgun/dsa/tree/master/0897-increasing-order-search-tree) |
+| [0934-shortest-bridge](https://github.com/adxgun/dsa/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/adxgun/dsa/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/adxgun/dsa/tree/master/0965-univalued-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
@@ -1395,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/adxgun/dsa/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adxgun/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/adxgun/dsa/tree/master/0919-complete-binary-tree-inserter) |
+| [0934-shortest-bridge](https://github.com/adxgun/dsa/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/adxgun/dsa/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
