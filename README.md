@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/adxgun/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/adxgun/dsa/tree/master/0797-all-paths-from-source-to-target) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/adxgun/dsa/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Stack
 |  |
@@ -1400,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/adxgun/dsa/tree/master/0919-complete-binary-tree-inserter) |
 | [0934-shortest-bridge](https://github.com/adxgun/dsa/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/adxgun/dsa/tree/master/0965-univalued-binary-tree) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/adxgun/dsa/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/adxgun/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/adxgun/dsa/tree/master/0994-rotting-oranges) |
