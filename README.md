@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adxgun/dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1730-shortest-path-to-get-food](https://github.com/adxgun/dsa/tree/master/1730-shortest-path-to-get-food) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/adxgun/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adxgun/dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/adxgun/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/adxgun/dsa/tree/master/1818-minimum-absolute-sum-difference) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adxgun/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Merge Sort
 |  |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1730-shortest-path-to-get-food](https://github.com/adxgun/dsa/tree/master/1730-shortest-path-to-get-food) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -937,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0737-sentence-similarity-ii](https://github.com/adxgun/dsa/tree/master/0737-sentence-similarity-ii) |
 | [0827-making-a-large-island](https://github.com/adxgun/dsa/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/adxgun/dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bucket Sort
@@ -1225,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1422,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1730-shortest-path-to-get-food](https://github.com/adxgun/dsa/tree/master/1730-shortest-path-to-get-food) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -1544,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/adxgun/dsa/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Heuristic Search
 |  |
 | ------- |
