@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adxgun/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adxgun/dsa/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adxgun/dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/adxgun/dsa/tree/master/1533-find-the-index-of-the-large-integer) |
 | [1539-kth-missing-positive-number](https://github.com/adxgun/dsa/tree/master/1539-kth-missing-positive-number) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adxgun/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Merge Sort
@@ -1486,6 +1488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/adxgun/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/adxgun/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/adxgun/dsa/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 ## Directed Acyclic Graph
@@ -1546,11 +1549,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/adxgun/dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adxgun/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/adxgun/dsa/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Heuristic Search
 |  |
