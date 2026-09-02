@@ -18,7 +18,7 @@ class Solution {
     private int smallestLevel = 0;
     private Map<Integer, Integer> levelSums = new HashMap<>();
     
-    public int maxLevelSum(TreeNode root) {
+    public int maxLevelSum1(TreeNode root) {
         dfs(root, 1);
 
         int maxSum = Integer.MIN_VALUE;
@@ -40,5 +40,32 @@ class Solution {
         levelSums.merge(depth, root.val, Integer::sum);
     }
 
+    public int maxLevelSum(TreeNode root) {
+        if (root == null) return 0;
+        
+        int max = Integer.MIN_VALUE;
+        Queue<TreeNode> queue = new ArrayDeque<>();
+        queue.offer(root);
 
+        int smallest = -1, level = 0;
+        while (!queue.isEmpty()) {
+            level++;
+            int size = queue.size();
+            int levelSum = 0;
+            for (int i = 0; i < size; i++) {
+                TreeNode cur = queue.poll();
+                levelSum += cur.val;
+
+                if (cur.left != null) queue.offer(cur.left);
+                if (cur.right != null) queue.offer(cur.right);
+            }
+            
+            if (levelSum > max) {
+                max = levelSum;
+                smallest = level;
+            }
+        }
+
+        return smallest;
+    }
 }
