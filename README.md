@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-fixed-point](https://github.com/adxgun/dsa/tree/master/1064-fixed-point) |
 | [1086-high-five](https://github.com/adxgun/dsa/tree/master/1086-high-five) |
 | [1099-two-sum-less-than-k](https://github.com/adxgun/dsa/tree/master/1099-two-sum-less-than-k) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1109-corporate-flight-bookings](https://github.com/adxgun/dsa/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [1064-fixed-point](https://github.com/adxgun/dsa/tree/master/1064-fixed-point) |
 | [1099-two-sum-less-than-k](https://github.com/adxgun/dsa/tree/master/1099-two-sum-less-than-k) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/adxgun/dsa/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adxgun/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/adxgun/dsa/tree/master/1046-last-stone-weight) |
 | [1086-high-five](https://github.com/adxgun/dsa/tree/master/1086-high-five) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/adxgun/dsa/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/adxgun/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adxgun/dsa/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/adxgun/dsa/tree/master/1034-coloring-a-border) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0737-sentence-similarity-ii](https://github.com/adxgun/dsa/tree/master/0737-sentence-similarity-ii) |
 | [0827-making-a-large-island](https://github.com/adxgun/dsa/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/adxgun/dsa/tree/master/1020-number-of-enclaves) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1220,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/adxgun/dsa/tree/master/1034-coloring-a-border) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adxgun/dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/adxgun/dsa/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1110-delete-nodes-and-return-forest](https://github.com/adxgun/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1120-maximum-average-subtree](https://github.com/adxgun/dsa/tree/master/1120-maximum-average-subtree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/adxgun/dsa/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1428,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/adxgun/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adxgun/dsa/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/adxgun/dsa/tree/master/1034-coloring-a-border) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/adxgun/dsa/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
@@ -1566,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/adxgun/dsa/tree/master/0743-network-delay-time) |
+| [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Heuristic Search
