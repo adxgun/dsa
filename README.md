@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/adxgun/dsa/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1231-divide-chocolate](https://github.com/adxgun/dsa/tree/master/1231-divide-chocolate) |
+| [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adxgun/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/adxgun/dsa/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/adxgun/dsa/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/adxgun/dsa/tree/master/1020-number-of-enclaves) |
 | [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
+| [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/adxgun/dsa/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1214-two-sum-bsts](https://github.com/adxgun/dsa/tree/master/1214-two-sum-bsts) |
+| [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/adxgun/dsa/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/adxgun/dsa/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1441,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/adxgun/dsa/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/adxgun/dsa/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/adxgun/dsa/tree/master/1306-jump-game-iii) |
