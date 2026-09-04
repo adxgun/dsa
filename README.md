@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-divide-chocolate](https://github.com/adxgun/dsa/tree/master/1231-divide-chocolate) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adxgun/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/adxgun/dsa/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adxgun/dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/adxgun/dsa/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rolling Hash
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/adxgun/dsa/tree/master/1020-number-of-enclaves) |
 | [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1240,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/adxgun/dsa/tree/master/1214-two-sum-bsts) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/adxgun/dsa/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/adxgun/dsa/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/adxgun/dsa/tree/master/1306-jump-game-iii) |
@@ -1451,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/adxgun/dsa/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/adxgun/dsa/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
