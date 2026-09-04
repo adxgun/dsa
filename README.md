@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1213-intersection-of-three-sorted-arrays](https://github.com/adxgun/dsa/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1231-divide-chocolate](https://github.com/adxgun/dsa/tree/master/1231-divide-chocolate) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adxgun/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/adxgun/dsa/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-high-five](https://github.com/adxgun/dsa/tree/master/1086-high-five) |
 | [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/adxgun/dsa/tree/master/1167-minimum-cost-to-connect-sticks) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adxgun/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
@@ -1447,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1302-deepest-leaves-sum](https://github.com/adxgun/dsa/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/adxgun/dsa/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
