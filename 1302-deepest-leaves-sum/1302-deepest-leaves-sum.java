@@ -15,7 +15,7 @@
  */
 class Solution {
     int maxDepth = 0, deepestSum = 0, depth = 0;
-    public int deepestLeavesSum(TreeNode root) {
+    public int deepestLeavesSum1(TreeNode root) {
         // findMaxDepth(root, 0);
         dfs1(root, 0);
         return deepestSum;
@@ -50,5 +50,27 @@ class Solution {
         dfs(root.right, depth + 1);
 
         if (depth == maxDepth) deepestSum += root.val;
+    }
+
+    public int deepestLeavesSum(TreeNode root) {
+        if (root == null) return 0;
+
+        Queue<TreeNode> queue = new ArrayDeque<>();
+        queue.offer(root);
+
+        int sum = 0;
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            sum = 0;
+            for (int s = 0; s < size; s++) {
+                TreeNode cur = queue.poll();
+                sum += cur.val;
+
+                if (cur.left != null) queue.offer(cur.left);
+                if (cur.right != null) queue.offer(cur.right);
+            }
+        }
+
+        return sum;
     }
 }
