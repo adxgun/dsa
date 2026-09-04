@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adxgun/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/adxgun/dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/adxgun/dsa/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1306-jump-game-iii](https://github.com/adxgun/dsa/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/adxgun/dsa/tree/master/1319-unique-number-of-occurrences) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/adxgun/dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
@@ -1457,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/adxgun/dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/adxgun/dsa/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/adxgun/dsa/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/adxgun/dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
