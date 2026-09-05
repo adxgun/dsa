@@ -1265,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adxgun/dsa/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -1472,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/adxgun/dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adxgun/dsa/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -1534,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/adxgun/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/adxgun/dsa/tree/master/0841-keys-and-rooms) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/adxgun/dsa/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adxgun/dsa/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
