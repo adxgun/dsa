@@ -11,9 +11,9 @@ class Solution {
         result.add(new ArrayList<>(track));
 
         for (int i = start; i < nums.length; i++) {
-            track.add(nums[i]);
+            track.addLast(nums[i]);
             backtrack(nums, i + 1);
-            track.remove(track.size() - 1);
+            track.removeLast();
         }
     }
 }
