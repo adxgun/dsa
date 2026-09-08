@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/adxgun/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/adxgun/dsa/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adxgun/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adxgun/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/adxgun/dsa/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/adxgun/dsa/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/adxgun/dsa/tree/master/0485-max-consecutive-ones) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/adxgun/dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/adxgun/dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adxgun/dsa/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adxgun/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/adxgun/dsa/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/adxgun/dsa/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adxgun/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adxgun/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/adxgun/dsa/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
