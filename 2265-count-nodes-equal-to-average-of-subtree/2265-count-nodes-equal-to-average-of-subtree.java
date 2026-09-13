@@ -14,10 +14,10 @@
  * }
  */
 class Solution {
-    int max = 0;
+    int count = 0;
     public int averageOfSubtree(TreeNode root) {
         dfs(root);
-        return max;
+        return count;
     }
 
     private int[] dfs(TreeNode root) {
@@ -26,10 +26,10 @@ class Solution {
         int[] left = dfs(root.left);
         int[] right = dfs(root.right);
 
-        int c = left[0] + right[0];
-        int sum = left[1] + right[1];
-        int avg = (sum + root.val) / (c + 1);
-        if (avg == root.val) max += 1;
-        return new int[]{c + 1, sum + root.val}; 
+        int nodes = left[0] + right[0] + 1;
+        int sum = left[1] + right[1] + root.val;
+        int avg = sum / nodes;
+        if (avg == root.val) count += 1;
+        return new int[]{nodes, sum}; 
     }
 }
