@@ -18,8 +18,6 @@ class Solution {
         Map<Integer, List<Integer>> graph = new HashMap<>();
         dfs(root, graph);
 
-        System.out.println(graph);
-
         Queue<Integer> queue = new ArrayDeque<>();
         Set<Integer> visited = new HashSet<>();
         queue.offer(start);
