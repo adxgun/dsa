@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-kth-smallest-subarray-sum](https://github.com/adxgun/dsa/tree/master/1918-kth-smallest-subarray-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-shortest-path-to-get-food](https://github.com/adxgun/dsa/tree/master/1730-shortest-path-to-get-food) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adxgun/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1517,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
