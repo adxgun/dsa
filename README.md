@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-finding-the-users-active-minutes](https://github.com/adxgun/dsa/tree/master/1817-finding-the-users-active-minutes) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2451-odd-string-difference](https://github.com/adxgun/dsa/tree/master/2451-odd-string-difference) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adxgun/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/adxgun/dsa/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adxgun/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1309,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adxgun/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1412,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/adxgun/dsa/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adxgun/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1522,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
