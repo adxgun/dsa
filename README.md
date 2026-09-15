@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1533-find-the-index-of-the-large-integer](https://github.com/adxgun/dsa/tree/master/1533-find-the-index-of-the-large-integer) |
 | [1539-kth-missing-positive-number](https://github.com/adxgun/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adxgun/dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adxgun/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adxgun/dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/adxgun/dsa/tree/master/1428-leftmost-column-with-at-least-a-one) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adxgun/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1730-shortest-path-to-get-food](https://github.com/adxgun/dsa/tree/master/1730-shortest-path-to-get-food) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-path-with-maximum-minimum-value](https://github.com/adxgun/dsa/tree/master/1102-path-with-maximum-minimum-value) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adxgun/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1305,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adxgun/dsa/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adxgun/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
@@ -1519,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adxgun/dsa/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/adxgun/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/adxgun/dsa/tree/master/1609-even-odd-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
