@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1847-closest-room](https://github.com/adxgun/dsa/tree/master/1847-closest-room) |
 | [1885-count-pairs-in-two-arrays](https://github.com/adxgun/dsa/tree/master/1885-count-pairs-in-two-arrays) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adxgun/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adxgun/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Merge Sort
 |  |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adxgun/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -1533,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
