@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adxgun/dsa/tree/master/0485-max-consecutive-ones) |
 | [0490-the-maze](https://github.com/adxgun/dsa/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/adxgun/dsa/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-random-pick-with-weight](https://github.com/adxgun/dsa/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/adxgun/dsa/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/adxgun/dsa/tree/master/0481-magical-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/adxgun/dsa/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0606-construct-string-from-binary-tree](https://github.com/adxgun/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/adxgun/dsa/tree/master/0721-accounts-merge) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adxgun/dsa/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/adxgun/dsa/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/adxgun/dsa/tree/master/0481-magical-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/adxgun/dsa/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adxgun/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/adxgun/dsa/tree/master/0475-heaters) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/adxgun/dsa/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
