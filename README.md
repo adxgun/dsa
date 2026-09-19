@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adxgun/dsa/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/adxgun/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/adxgun/dsa/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/adxgun/dsa/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/adxgun/dsa/tree/master/0737-sentence-similarity-ii) |
 | [0752-open-the-lock](https://github.com/adxgun/dsa/tree/master/0752-open-the-lock) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/adxgun/dsa/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adxgun/dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/adxgun/dsa/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/adxgun/dsa/tree/master/0825-friends-of-appropriate-ages) |
