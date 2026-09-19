@@ -20,7 +20,7 @@ class Solution {
             toappend = (toappend == '2') ? '1' : '2';
             startIndex += 1;
         }
-        System.out.println(sb.toString());
+        
         return count;
     }
 }
