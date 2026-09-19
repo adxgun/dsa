@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adxgun/dsa/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
+| [0251-flatten-2d-vector](https://github.com/adxgun/dsa/tree/master/0251-flatten-2d-vector) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/adxgun/dsa/tree/master/0275-h-index-ii) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/adxgun/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adxgun/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0251-flatten-2d-vector](https://github.com/adxgun/dsa/tree/master/0251-flatten-2d-vector) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/adxgun/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adxgun/dsa/tree/master/0287-find-the-duplicate-number) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0251-flatten-2d-vector](https://github.com/adxgun/dsa/tree/master/0251-flatten-2d-vector) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
@@ -1575,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0251-flatten-2d-vector](https://github.com/adxgun/dsa/tree/master/0251-flatten-2d-vector) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 ## Doubly-Linked List
 |  |
