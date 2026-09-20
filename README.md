@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/adxgun/dsa/tree/master/2833-furthest-point-from-origin) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1118,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
