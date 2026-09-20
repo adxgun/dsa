@@ -1232,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adxgun/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adxgun/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/adxgun/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1482,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adxgun/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1604,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/adxgun/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adxgun/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adxgun/dsa/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
