@@ -20,7 +20,7 @@ class Solution {
                 next.add(cur - 1);
                 next.add(cur + 1);
                 for (int node : next) {
-                    if (!visited.contains(node)) {
+                    if (node > 0 && !visited.contains(node)) {
                         visited.add(node);
                         queue.offer(node);
                     }
