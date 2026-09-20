@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/adxgun/dsa/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adxgun/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/adxgun/dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3731-find-missing-elements](https://github.com/adxgun/dsa/tree/master/3731-find-missing-elements) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adxgun/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1469,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adxgun/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1587,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adxgun/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adxgun/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/adxgun/dsa/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
