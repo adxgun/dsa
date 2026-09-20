@@ -1,5 +1,6 @@
 class Solution {
     public int minimumOperationsToMakeEqual(int x, int y) {
+        if (x <= y) return y - x;
         Queue<Integer> queue = new ArrayDeque<>();
         Set<Integer> visited = new HashSet<>();
 
@@ -14,8 +15,8 @@ class Solution {
                 if (cur == y) return ops;
                 
                 List<Integer> next = new ArrayList<>();
-                if ((cur * cur) % 11 == 0) next.add(cur / 11);
-                if ((cur * cur) % 5 == 0) next.add(cur / 5);
+                if (cur % 11 == 0) next.add(cur / 11);
+                if (cur % 5 == 0) next.add(cur / 5);
                 next.add(cur - 1);
                 next.add(cur + 1);
                 for (int node : next) {
