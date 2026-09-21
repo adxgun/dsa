@@ -1242,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adxgun/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/adxgun/dsa/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1387,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/adxgun/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adxgun/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/adxgun/dsa/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1495,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/adxgun/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/adxgun/dsa/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1622,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adxgun/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/adxgun/dsa/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1646,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/adxgun/dsa/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/1382-balance-a-binary-search-tree) |
+| [3831-median-of-a-binary-search-tree-level](https://github.com/adxgun/dsa/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Iterator
 |  |
 | ------- |
