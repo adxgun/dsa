@@ -1,6 +1,6 @@
 class Solution {
     public int latestDayToCross(int row, int col, int[][] cells) {
-        int lo = 0, hi = cells.length, answer = 0;
+        int lo = 0, hi = row * col, answer = 0;
         while (lo <= hi) {
             int mid = lo + (hi - lo) / 2;
             if (canCross(row, col, cells, mid)) {
