@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2258-escape-the-spreading-fire](https://github.com/adxgun/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/adxgun/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/adxgun/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2258-escape-the-spreading-fire](https://github.com/adxgun/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adxgun/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/adxgun/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2258-escape-the-spreading-fire](https://github.com/adxgun/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/adxgun/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/adxgun/dsa/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -1625,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2258-escape-the-spreading-fire](https://github.com/adxgun/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/adxgun/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
