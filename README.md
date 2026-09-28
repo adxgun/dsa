@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adxgun/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/adxgun/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/adxgun/dsa/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adxgun/dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adxgun/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/adxgun/dsa/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adxgun/dsa/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/adxgun/dsa/tree/master/0433-minimum-genetic-mutation) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/adxgun/dsa/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/adxgun/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 | [0694-number-of-distinct-islands](https://github.com/adxgun/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/adxgun/dsa/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/adxgun/dsa/tree/master/0721-accounts-merge) |
@@ -1306,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
 | [0365-water-and-jug-problem](https://github.com/adxgun/dsa/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/adxgun/dsa/tree/master/0385-mini-parser) |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adxgun/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -1551,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/adxgun/dsa/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
 | [0365-water-and-jug-problem](https://github.com/adxgun/dsa/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/adxgun/dsa/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/adxgun/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adxgun/dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1698,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/adxgun/dsa/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/adxgun/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adxgun/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/adxgun/dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adxgun/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1770,6 +1776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0743-network-delay-time](https://github.com/adxgun/dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adxgun/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1803,4 +1810,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/adxgun/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/adxgun/dsa/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
