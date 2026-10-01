@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/adxgun/dsa/tree/master/1817-finding-the-users-active-minutes) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/adxgun/dsa/tree/master/1698-number-of-distinct-substrings-in-a-string) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/adxgun/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/adxgun/dsa/tree/master/1698-number-of-distinct-substrings-in-a-string) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
+| [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Queue
 |  |
