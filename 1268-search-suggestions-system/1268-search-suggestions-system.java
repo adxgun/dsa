@@ -1,5 +1,5 @@
 class Solution {
-    public List<List<String>> suggestedProducts1(String[] products, String searchWord) {
+    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
         Arrays.sort(products);
         List<List<String>> res = new ArrayList<>();
         String prefix = "";
@@ -35,7 +35,7 @@ class Solution {
         List<String> suggestions = new ArrayList<>();
     }
 
-    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+    public List<List<String>> suggestedProducts1(String[] products, String searchWord) {
         Arrays.sort(products);
 
         Node root = new Node();
