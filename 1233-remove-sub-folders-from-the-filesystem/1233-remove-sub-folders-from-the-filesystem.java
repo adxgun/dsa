@@ -5,7 +5,7 @@ class Solution {
         Node[] children = new Node[27];
     }
 
-    public List<String> removeSubfolders(String[] folder) {
+    public List<String> removeSubfolders1(String[] folder) {
         Node root = new Node();
         for (String f : folder) {
             Node cur = root;
@@ -42,5 +42,17 @@ class Solution {
             cur = cur.children[index(c)];
         }
         return false;
+    }
+
+    public List<String> removeSubfolders(String[] folder) {
+        Arrays.sort(folder);
+        List<String> result = new ArrayList<>();
+        for (String f : folder) {
+            // Skip f if it's inside the last folder we kept
+            if (result.isEmpty() || !f.startsWith(result.get(result.size() - 1) + "/")) {
+                result.add(f);
+            }
+        }
+        return result;
     }
 }
