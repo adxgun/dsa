@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1847-closest-room](https://github.com/adxgun/dsa/tree/master/1847-closest-room) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adxgun/dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1858-longest-word-with-all-prefixes](https://github.com/adxgun/dsa/tree/master/1858-longest-word-with-all-prefixes) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/adxgun/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1885-count-pairs-in-two-arrays](https://github.com/adxgun/dsa/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/adxgun/dsa/tree/master/1891-cutting-ribbons) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/adxgun/dsa/tree/master/1698-number-of-distinct-substrings-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1858-longest-word-with-all-prefixes](https://github.com/adxgun/dsa/tree/master/1858-longest-word-with-all-prefixes) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/adxgun/dsa/tree/master/1698-number-of-distinct-substrings-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [1858-longest-word-with-all-prefixes](https://github.com/adxgun/dsa/tree/master/1858-longest-word-with-all-prefixes) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
@@ -1448,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/adxgun/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
+| [1858-longest-word-with-all-prefixes](https://github.com/adxgun/dsa/tree/master/1858-longest-word-with-all-prefixes) |
 | [1905-count-sub-islands](https://github.com/adxgun/dsa/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/adxgun/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adxgun/dsa/tree/master/1971-find-if-path-exists-in-graph) |
