@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adxgun/dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1165-single-row-keyboard](https://github.com/adxgun/dsa/tree/master/1165-single-row-keyboard) |
+| [1166-design-file-system](https://github.com/adxgun/dsa/tree/master/1166-design-file-system) |
 | [1169-invalid-transactions](https://github.com/adxgun/dsa/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/adxgun/dsa/tree/master/1198-find-smallest-common-element-in-all-rows) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/adxgun/dsa/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adxgun/dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1165-single-row-keyboard](https://github.com/adxgun/dsa/tree/master/1165-single-row-keyboard) |
+| [1166-design-file-system](https://github.com/adxgun/dsa/tree/master/1166-design-file-system) |
 | [1169-invalid-transactions](https://github.com/adxgun/dsa/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/adxgun/dsa/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [1065-index-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1065-index-pairs-of-a-string) |
+| [1166-design-file-system](https://github.com/adxgun/dsa/tree/master/1166-design-file-system) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
+| [1166-design-file-system](https://github.com/adxgun/dsa/tree/master/1166-design-file-system) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
