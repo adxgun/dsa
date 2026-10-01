@@ -1,5 +1,5 @@
 class Solution {
-    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+    public List<List<String>> suggestedProducts1(String[] products, String searchWord) {
         Arrays.sort(products);
         List<List<String>> res = new ArrayList<>();
         String prefix = "";
@@ -28,5 +28,40 @@ class Solution {
             else hi = mid - 1;
         }
         return lo;
+    }
+
+    private final class Node {
+        Node[] children = new Node[26];
+        List<String> suggestions = new ArrayList<>();
+    }
+
+    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+        Arrays.sort(products);
+
+        Node root = new Node();
+        for (String p : products) {
+            Node cur = root;
+            for (char c : p.toCharArray()) {
+                int i = c - 'a';
+                if (cur.children[i] == null) cur.children[i] = new Node();
+                cur = cur.children[i];
+
+                if (cur.suggestions.size() < 3) {
+                    cur.suggestions.add(p);
+                }
+            }
+        }
+
+        List<List<String>> result = new ArrayList<>();
+        Node cur = root;
+        for (char c : searchWord.toCharArray()) {
+            if (cur != null) {
+                cur = cur.children[c - 'a'];
+            }
+
+            result.add(cur == null ? new ArrayList<>() : cur.suggestions);
+        }
+
+        return result;
     }
 }
