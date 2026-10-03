@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adxgun/dsa/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adxgun/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/adxgun/dsa/tree/master/1020-number-of-enclaves) |
+| [1032-stream-of-characters](https://github.com/adxgun/dsa/tree/master/1032-stream-of-characters) |
 | [1034-coloring-a-border](https://github.com/adxgun/dsa/tree/master/1034-coloring-a-border) |
 | [1046-max-consecutive-ones-iii](https://github.com/adxgun/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/adxgun/dsa/tree/master/1046-last-stone-weight) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/adxgun/dsa/tree/master/0824-goat-latin) |
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adxgun/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1032-stream-of-characters](https://github.com/adxgun/dsa/tree/master/1032-stream-of-characters) |
 | [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [1065-index-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1065-index-pairs-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adxgun/dsa/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/adxgun/dsa/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/adxgun/dsa/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/adxgun/dsa/tree/master/0792-number-of-matching-subsequences) |
+| [1032-stream-of-characters](https://github.com/adxgun/dsa/tree/master/1032-stream-of-characters) |
 | [1065-index-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1065-index-pairs-of-a-string) |
 | [1166-design-file-system](https://github.com/adxgun/dsa/tree/master/1166-design-file-system) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/adxgun/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/adxgun/dsa/tree/master/0919-complete-binary-tree-inserter) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/adxgun/dsa/tree/master/0981-time-based-key-value-store) |
+| [1032-stream-of-characters](https://github.com/adxgun/dsa/tree/master/1032-stream-of-characters) |
 | [1146-snapshot-array](https://github.com/adxgun/dsa/tree/master/1146-snapshot-array) |
 | [1166-design-file-system](https://github.com/adxgun/dsa/tree/master/1166-design-file-system) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -1088,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
+| [1032-stream-of-characters](https://github.com/adxgun/dsa/tree/master/1032-stream-of-characters) |
 ## Counting
 |  |
 | ------- |
@@ -1905,5 +1910,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Aho–Corasick Algorithm
 |  |
 | ------- |
+| [1032-stream-of-characters](https://github.com/adxgun/dsa/tree/master/1032-stream-of-characters) |
 | [1065-index-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1065-index-pairs-of-a-string) |
 <!---LeetCode Topics End-->
