@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/adxgun/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/adxgun/dsa/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adxgun/dsa/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/adxgun/dsa/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/adxgun/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adxgun/dsa/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/adxgun/dsa/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/adxgun/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/adxgun/dsa/tree/master/1698-number-of-distinct-substrings-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1858-longest-word-with-all-prefixes](https://github.com/adxgun/dsa/tree/master/1858-longest-word-with-all-prefixes) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/adxgun/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
@@ -1107,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1213-intersection-of-three-sorted-arrays](https://github.com/adxgun/dsa/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/adxgun/dsa/tree/master/2833-furthest-point-from-origin) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rolling Hash
