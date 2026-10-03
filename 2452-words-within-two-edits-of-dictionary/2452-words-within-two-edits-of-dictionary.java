@@ -5,7 +5,7 @@ class Solution {
         Node[] children = new Node[26];
     }
 
-    public List<String> twoEditWords1(String[] queries, String[] dictionary) {
+    public List<String> twoEditWords(String[] queries, String[] dictionary) {
         Node root = new Node();
         for (String w : dictionary) {
             Node cur = root;
@@ -34,16 +34,16 @@ class Solution {
             Node child = node.children[i];
             if (child == null) continue;
 
-            int cost = edits + (i == w.charAt(pos) ? 0 : 1);
+            int cost = (i == w.charAt(pos) - 'a') ? 0 : 1;
             if (edits + cost > 2) continue;
 
-            if (canMatch(child, w, pos + 1, edits)) return true;
+            if (canMatch(child, w, pos + 1, edits + cost)) return true;
         }
 
         return false;
     }
 
-    public List<String> twoEditWords(String[] queries, String[] dictionary) {
+    public List<String> twoEditWords1(String[] queries, String[] dictionary) {
         List<String> result = new ArrayList<>();
         for (String query : queries) {
             for (String dict : dictionary) {
