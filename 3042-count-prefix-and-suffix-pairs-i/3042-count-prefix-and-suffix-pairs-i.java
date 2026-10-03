@@ -15,11 +15,9 @@ class Solution {
 
         int count = 0;
         for (int i = 0; i < words.length; i++) {
-            for (int j = 0; j < words.length; j++) {
-                if (i == j) continue;
-                
+            for (int j = i + 1; j < words.length; j++) {                
                 String a = words[i], b = words[j];
-                if (i < j && b.startsWith(a) && b.endsWith(a)) {
+                if (b.startsWith(a) && b.endsWith(a)) {
                     count++;
                 }
             }
