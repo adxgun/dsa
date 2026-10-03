@@ -5,7 +5,7 @@ class Solution {
         Node[] children = new Node[26];
     }
 
-    public List<String> twoEditWords(String[] queries, String[] dictionary) {
+    public List<String> twoEditWords1(String[] queries, String[] dictionary) {
         Node root = new Node();
         for (String w : dictionary) {
             Node cur = root;
@@ -43,7 +43,7 @@ class Solution {
         return false;
     }
 
-    public List<String> twoEditWords1(String[] queries, String[] dictionary) {
+    public List<String> twoEditWords(String[] queries, String[] dictionary) {
         List<String> result = new ArrayList<>();
         for (String query : queries) {
             for (String dict : dictionary) {
