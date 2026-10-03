@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/adxgun/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/adxgun/dsa/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/adxgun/dsa/tree/master/0694-number-of-distinct-islands) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
+| [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/adxgun/dsa/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/adxgun/dsa/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/adxgun/dsa/tree/master/0720-longest-word-in-dictionary) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/adxgun/dsa/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/adxgun/dsa/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/adxgun/dsa/tree/master/0745-prefix-and-suffix-search) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/adxgun/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
+| [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
@@ -1406,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0663-equal-tree-partition](https://github.com/adxgun/dsa/tree/master/0663-equal-tree-partition) |
 | [0669-trim-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0687-longest-univalue-path](https://github.com/adxgun/dsa/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0694-number-of-distinct-islands](https://github.com/adxgun/dsa/tree/master/0694-number-of-distinct-islands) |
