@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adxgun/dsa/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/adxgun/dsa/tree/master/0301-remove-invalid-parentheses) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/adxgun/dsa/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/adxgun/dsa/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/adxgun/dsa/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/adxgun/dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/adxgun/dsa/tree/master/0301-remove-invalid-parentheses) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/adxgun/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/adxgun/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/adxgun/dsa/tree/master/0286-walls-and-gates) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/adxgun/dsa/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adxgun/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
