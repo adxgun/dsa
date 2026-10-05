@@ -1818,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/adxgun/dsa/tree/master/1291-sequential-digits) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adxgun/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Graph Theory
