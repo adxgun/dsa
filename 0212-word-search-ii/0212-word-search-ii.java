@@ -57,9 +57,9 @@ class Solution {
         }
         board[row][col] = ch;
 
-        // if (node.word == null && isEmpty(node)) {
-           // root.children[ch - 'a'] = null;
-        // }
+        if (node.word == null && isEmpty(node)) {
+           root.children[ch - 'a'] = null;
+        }
     }
 
     private boolean isEmpty(Node node) {
