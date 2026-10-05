@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/adxgun/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/adxgun/dsa/tree/master/0301-remove-invalid-parentheses) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0251-flatten-2d-vector](https://github.com/adxgun/dsa/tree/master/0251-flatten-2d-vector) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
@@ -1385,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adxgun/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adxgun/dsa/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/adxgun/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adxgun/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
