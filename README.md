@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/adxgun/dsa/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/adxgun/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adxgun/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adxgun/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/adxgun/dsa/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
 ## Sliding Window
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adxgun/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/adxgun/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adxgun/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
@@ -1113,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Queue
 |  |
