@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/adxgun/dsa/tree/master/1698-number-of-distinct-substrings-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/adxgun/dsa/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1858-longest-word-with-all-prefixes](https://github.com/adxgun/dsa/tree/master/1858-longest-word-with-all-prefixes) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/adxgun/dsa/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1918-kth-smallest-subarray-sum](https://github.com/adxgun/dsa/tree/master/1918-kth-smallest-subarray-sum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
