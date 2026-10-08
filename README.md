@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/adxgun/dsa/tree/master/1367-linked-list-in-binary-tree) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adxgun/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 ## Math
 |  |
 | ------- |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adxgun/dsa/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/adxgun/dsa/tree/master/2451-odd-string-difference) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/adxgun/dsa/tree/master/1214-two-sum-bsts) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adxgun/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1117,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Queue
@@ -1273,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/adxgun/dsa/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
@@ -1828,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
+| [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 ## Enumeration
 |  |
 | ------- |
