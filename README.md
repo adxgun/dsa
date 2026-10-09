@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/adxgun/dsa/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/adxgun/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/adxgun/dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/adxgun/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adxgun/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adxgun/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/adxgun/dsa/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/adxgun/dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adxgun/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/adxgun/dsa/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/adxgun/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adxgun/dsa/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adxgun/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/adxgun/dsa/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -1172,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [1062-longest-repeating-substring](https://github.com/adxgun/dsa/tree/master/1062-longest-repeating-substring) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/adxgun/dsa/tree/master/1698-number-of-distinct-substrings-in-a-string) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/adxgun/dsa/tree/master/3023-find-pattern-in-infinite-stream-i) |
@@ -1192,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/adxgun/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0694-number-of-distinct-islands](https://github.com/adxgun/dsa/tree/master/0694-number-of-distinct-islands) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
@@ -1988,4 +1994,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/adxgun/dsa/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
