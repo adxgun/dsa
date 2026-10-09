@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adxgun/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adxgun/dsa/tree/master/3731-find-missing-elements) |
+| [3829-design-ride-sharing-system](https://github.com/adxgun/dsa/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Linked List
 |  |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
+| [3829-design-ride-sharing-system](https://github.com/adxgun/dsa/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Queue
 |  |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adxgun/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
+| [3829-design-ride-sharing-system](https://github.com/adxgun/dsa/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/adxgun/dsa/tree/master/1032-stream-of-characters) |
+| [3829-design-ride-sharing-system](https://github.com/adxgun/dsa/tree/master/3829-design-ride-sharing-system) |
 ## Counting
 |  |
 | ------- |
