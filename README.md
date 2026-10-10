@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/adxgun/dsa/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/adxgun/dsa/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/adxgun/dsa/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/adxgun/dsa/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/adxgun/dsa/tree/master/0365-water-and-jug-problem) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/adxgun/dsa/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/adxgun/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adxgun/dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0224-basic-calculator](https://github.com/adxgun/dsa/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
 ## String
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/adxgun/dsa/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/adxgun/dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/adxgun/dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adxgun/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/adxgun/dsa/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0364-nested-list-weight-sum-ii](https://github.com/adxgun/dsa/tree/master/0364-nested-list-weight-sum-ii) |
