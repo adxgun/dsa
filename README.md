@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adxgun/dsa/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/adxgun/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
 | [0251-flatten-2d-vector](https://github.com/adxgun/dsa/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/adxgun/dsa/tree/master/0253-meeting-rooms-ii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/adxgun/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adxgun/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/adxgun/dsa/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/adxgun/dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/adxgun/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adxgun/dsa/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/adxgun/dsa/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
