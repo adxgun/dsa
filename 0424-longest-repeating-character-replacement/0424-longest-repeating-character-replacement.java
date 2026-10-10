@@ -11,7 +11,7 @@ class Solution {
             int windowLen = right - left + 1;
             int change = windowLen - maxFreq;
 
-            if (change > k) {
+            if (left < s.length() && change > k) {
                 count[s.charAt(left) - 'A']--;
                 left++;
             }
