@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adxgun/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3408-design-task-manager](https://github.com/adxgun/dsa/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adxgun/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/adxgun/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3408-design-task-manager](https://github.com/adxgun/dsa/tree/master/3408-design-task-manager) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Merge Sort
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1804-implement-trie-ii-prefix-tree](https://github.com/adxgun/dsa/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/adxgun/dsa/tree/master/2502-design-memory-allocator) |
+| [3408-design-task-manager](https://github.com/adxgun/dsa/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3829-design-ride-sharing-system](https://github.com/adxgun/dsa/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
@@ -1296,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/adxgun/dsa/tree/master/0729-my-calendar-i) |
 | [1818-minimum-absolute-sum-difference](https://github.com/adxgun/dsa/tree/master/1818-minimum-absolute-sum-difference) |
 | [1847-closest-room](https://github.com/adxgun/dsa/tree/master/1847-closest-room) |
+| [3408-design-task-manager](https://github.com/adxgun/dsa/tree/master/3408-design-task-manager) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 ## Monotonic Queue
