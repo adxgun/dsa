@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0490-the-maze](https://github.com/adxgun/dsa/tree/master/0490-the-maze) |
 | [0496-next-greater-element-i](https://github.com/adxgun/dsa/tree/master/0496-next-greater-element-i) |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
+| [0523-continuous-subarray-sum](https://github.com/adxgun/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adxgun/dsa/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/adxgun/dsa/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/adxgun/dsa/tree/master/0528-random-pick-with-weight) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/adxgun/dsa/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
+| [0523-continuous-subarray-sum](https://github.com/adxgun/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adxgun/dsa/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adxgun/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adxgun/dsa/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/adxgun/dsa/tree/master/0441-arranging-coins) |
+| [0523-continuous-subarray-sum](https://github.com/adxgun/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/adxgun/dsa/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/adxgun/dsa/tree/master/0539-minimum-time-difference) |
 | [0754-reach-a-number](https://github.com/adxgun/dsa/tree/master/0754-reach-a-number) |
@@ -1102,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/adxgun/dsa/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/adxgun/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/adxgun/dsa/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/adxgun/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adxgun/dsa/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/adxgun/dsa/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/adxgun/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -2026,4 +2030,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/adxgun/dsa/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
