@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/adxgun/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
+| [3535-unit-conversion-ii](https://github.com/adxgun/dsa/tree/master/3535-unit-conversion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adxgun/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adxgun/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adxgun/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3535-unit-conversion-ii](https://github.com/adxgun/dsa/tree/master/3535-unit-conversion-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adxgun/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3649-number-of-perfect-pairs](https://github.com/adxgun/dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adxgun/dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -1608,6 +1610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adxgun/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/adxgun/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3535-unit-conversion-ii](https://github.com/adxgun/dsa/tree/master/3535-unit-conversion-ii) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adxgun/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/adxgun/dsa/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -1851,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/adxgun/dsa/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/adxgun/dsa/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3535-unit-conversion-ii](https://github.com/adxgun/dsa/tree/master/3535-unit-conversion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adxgun/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1923,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/adxgun/dsa/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/adxgun/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3535-unit-conversion-ii](https://github.com/adxgun/dsa/tree/master/3535-unit-conversion-ii) |
 | [3607-power-grid-maintenance](https://github.com/adxgun/dsa/tree/master/3607-power-grid-maintenance) |
 ## Directed Acyclic Graph
 |  |
