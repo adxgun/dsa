@@ -20,8 +20,9 @@ class Solution {
             String root = parts[0];
             for (int i = 1; i < parts.length; i++) {
                 String name = parts[i];
-                String content = name.substring(name.indexOf('(') + 1, name.indexOf(')'));
-                String full = root + "/" + name.substring(0, name.indexOf('('));
+                int open = name.indexOf('(');
+                String content = name.substring(open + 1, name.length() - 1);
+                String full = root + "/" + name.substring(0, open);
                 files.computeIfAbsent(content, (j) -> new ArrayList<>()).add(full);
             }
         }
