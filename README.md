@@ -1598,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/adxgun/dsa/tree/master/1214-two-sum-bsts) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/adxgun/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1236-web-crawler](https://github.com/adxgun/dsa/tree/master/1236-web-crawler) |
+| [1242-web-crawler-multithreaded](https://github.com/adxgun/dsa/tree/master/1242-web-crawler-multithreaded) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
@@ -1835,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adxgun/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/adxgun/dsa/tree/master/1162-as-far-from-land-as-possible) |
 | [1236-web-crawler](https://github.com/adxgun/dsa/tree/master/1236-web-crawler) |
+| [1242-web-crawler-multithreaded](https://github.com/adxgun/dsa/tree/master/1242-web-crawler-multithreaded) |
 | [1254-number-of-closed-islands](https://github.com/adxgun/dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adxgun/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/adxgun/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -2080,4 +2082,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/adxgun/dsa/tree/master/0523-continuous-subarray-sum) |
+## Concurrency
+|  |
+| ------- |
+| [1242-web-crawler-multithreaded](https://github.com/adxgun/dsa/tree/master/1242-web-crawler-multithreaded) |
 <!---LeetCode Topics End-->
