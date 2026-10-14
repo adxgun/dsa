@@ -14,10 +14,6 @@ class FileSystem {
         String[] parts = split(path);
         Node node = walk(parts);
         if (node.isFile) return new ArrayList<>(Arrays.asList(parts[parts.length - 1]));
-        
-        System.out.println(Arrays.toString(parts));
-        System.out.println(path + " " + node.children.keySet().size());
-        System.out.println(node.children.keySet());
         return new ArrayList<>(node.children.keySet());
     }
 
