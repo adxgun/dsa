@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adxgun/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adxgun/dsa/tree/master/0567-permutation-in-string) |
 | [0582-kill-process](https://github.com/adxgun/dsa/tree/master/0582-kill-process) |
+| [0588-design-in-memory-file-system](https://github.com/adxgun/dsa/tree/master/0588-design-in-memory-file-system) |
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/adxgun/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adxgun/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/adxgun/dsa/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/adxgun/dsa/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/adxgun/dsa/tree/master/0567-permutation-in-string) |
+| [0588-design-in-memory-file-system](https://github.com/adxgun/dsa/tree/master/0588-design-in-memory-file-system) |
 | [0606-construct-string-from-binary-tree](https://github.com/adxgun/dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
+| [0588-design-in-memory-file-system](https://github.com/adxgun/dsa/tree/master/0588-design-in-memory-file-system) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/adxgun/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/adxgun/dsa/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adxgun/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0588-design-in-memory-file-system](https://github.com/adxgun/dsa/tree/master/0588-design-in-memory-file-system) |
 | [0611-valid-triangle-number](https://github.com/adxgun/dsa/tree/master/0611-valid-triangle-number) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
@@ -1155,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adxgun/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0588-design-in-memory-file-system](https://github.com/adxgun/dsa/tree/master/0588-design-in-memory-file-system) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0676-implement-magic-dictionary](https://github.com/adxgun/dsa/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/adxgun/dsa/tree/master/0677-map-sum-pairs) |
