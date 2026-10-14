@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adxgun/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/adxgun/dsa/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adxgun/dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1631-path-with-minimum-effort](https://github.com/adxgun/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adxgun/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/adxgun/dsa/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/adxgun/dsa/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/adxgun/dsa/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adxgun/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/adxgun/dsa/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adxgun/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/adxgun/dsa/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/adxgun/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adxgun/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adxgun/dsa/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adxgun/dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/adxgun/dsa/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/adxgun/dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1818-minimum-absolute-sum-difference](https://github.com/adxgun/dsa/tree/master/1818-minimum-absolute-sum-difference) |
