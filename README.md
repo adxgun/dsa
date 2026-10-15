@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/adxgun/dsa/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/adxgun/dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/adxgun/dsa/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0690-employee-importance](https://github.com/adxgun/dsa/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/adxgun/dsa/tree/master/0692-top-k-frequent-words) |
