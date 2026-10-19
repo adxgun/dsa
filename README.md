@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/adxgun/dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adxgun/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/adxgun/dsa/tree/master/0334-increasing-triplet-subsequence) |
+| [0346-moving-average-from-data-stream](https://github.com/adxgun/dsa/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adxgun/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adxgun/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/adxgun/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
+| [0346-moving-average-from-data-stream](https://github.com/adxgun/dsa/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adxgun/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adxgun/dsa/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adxgun/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/adxgun/dsa/tree/master/0341-flatten-nested-list-iterator) |
+| [0346-moving-average-from-data-stream](https://github.com/adxgun/dsa/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/adxgun/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/adxgun/dsa/tree/master/0649-dota2-senate) |
@@ -1218,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0346-moving-average-from-data-stream](https://github.com/adxgun/dsa/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/adxgun/dsa/tree/master/0362-design-hit-counter) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
