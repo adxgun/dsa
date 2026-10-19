@@ -13,7 +13,7 @@ class MovingAverage {
         if (curSize >= size) {
             int win = curSize - size;
             total -= values.get(win);
-            values.removeFirst();
+            values.remove(win);
         }
 
         values.add(val);
