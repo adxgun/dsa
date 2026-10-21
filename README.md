@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/adxgun/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adxgun/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/adxgun/dsa/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/adxgun/dsa/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/adxgun/dsa/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/adxgun/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/adxgun/dsa/tree/master/0224-basic-calculator) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adxgun/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/adxgun/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/adxgun/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/adxgun/dsa/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/adxgun/dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adxgun/dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/adxgun/dsa/tree/master/0076-minimum-window-substring) |
@@ -1374,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adxgun/dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adxgun/dsa/tree/master/0054-spiral-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/adxgun/dsa/tree/master/0348-design-tic-tac-toe) |
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
