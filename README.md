@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/adxgun/dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adxgun/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2258-escape-the-spreading-fire](https://github.com/adxgun/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/adxgun/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/adxgun/dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adxgun/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2408-design-sql](https://github.com/adxgun/dsa/tree/master/2408-design-sql) |
 | [2451-odd-string-difference](https://github.com/adxgun/dsa/tree/master/2451-odd-string-difference) |
@@ -1510,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/adxgun/dsa/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1609-even-odd-tree](https://github.com/adxgun/dsa/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adxgun/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adxgun/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1779,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/adxgun/dsa/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/adxgun/dsa/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adxgun/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adxgun/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adxgun/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/adxgun/dsa/tree/master/2415-reverse-odd-levels-of-binary-tree) |
