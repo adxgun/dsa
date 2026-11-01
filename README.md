@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/adxgun/dsa/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/adxgun/dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adxgun/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adxgun/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2258-escape-the-spreading-fire](https://github.com/adxgun/dsa/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/adxgun/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adxgun/dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1885-count-pairs-in-two-arrays](https://github.com/adxgun/dsa/tree/master/1885-count-pairs-in-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adxgun/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adxgun/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adxgun/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/adxgun/dsa/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/adxgun/dsa/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adxgun/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/adxgun/dsa/tree/master/2502-design-memory-allocator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
