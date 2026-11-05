@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/adxgun/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adxgun/dsa/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -1406,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/adxgun/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adxgun/dsa/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
