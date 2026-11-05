@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/adxgun/dsa/tree/master/3649-number-of-perfect-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adxgun/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adxgun/dsa/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/adxgun/dsa/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adxgun/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 | [3904-smallest-stable-index-ii](https://github.com/adxgun/dsa/tree/master/3904-smallest-stable-index-ii) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
+| [3838-weighted-word-mapping](https://github.com/adxgun/dsa/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
+| [3838-weighted-word-mapping](https://github.com/adxgun/dsa/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
 | ------- |
