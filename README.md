@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
+| [1507-reformat-date](https://github.com/adxgun/dsa/tree/master/1507-reformat-date) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adxgun/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/adxgun/dsa/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adxgun/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
