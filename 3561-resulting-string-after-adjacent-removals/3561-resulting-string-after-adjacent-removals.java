@@ -1,16 +1,19 @@
 class Solution {
     public String resultingString(String s) {
-        Deque<Integer> stack = new ArrayDeque<>();
+        Deque<Character> stack = new ArrayDeque<>();
         for (char ch : s.toCharArray()) {
-            int i = ch - 'a';
-            if (!stack.isEmpty() && Math.abs(i - stack.peek()) == 1) stack.pop();
-            else if (!stack.isEmpty() && Math.abs(i - stack.peek()) == 25) stack.pop();
-            else stack.push(i);
+            if (!stack.isEmpty() && isConsecutive(ch, stack.peek())) stack.pop();
+            else stack.push(ch);
         }
 
         StringBuilder sb = new StringBuilder();
-        for (int x : stack) sb.append((char) ('a' + x));
+        while (!stack.isEmpty()) sb.append(stack.pollLast());
         
-        return sb.reverse().toString();
+        return sb.toString();
+    }
+
+    private boolean isConsecutive(char a, char b) {
+        int diff = Math.abs(a - b);
+        return diff == 1 || diff == 25;
     }
 }
