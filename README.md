@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/adxgun/dsa/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adxgun/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/adxgun/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3535-unit-conversion-ii](https://github.com/adxgun/dsa/tree/master/3535-unit-conversion-ii) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/adxgun/dsa/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adxgun/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adxgun/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adxgun/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3535-unit-conversion-ii](https://github.com/adxgun/dsa/tree/master/3535-unit-conversion-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adxgun/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
