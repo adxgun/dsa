@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/adxgun/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3885-design-event-manager](https://github.com/adxgun/dsa/tree/master/3885-design-event-manager) |
 | [3904-smallest-stable-index-ii](https://github.com/adxgun/dsa/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/adxgun/dsa/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -1288,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/adxgun/dsa/tree/master/2833-furthest-point-from-origin) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3978-unique-middle-element](https://github.com/adxgun/dsa/tree/master/3978-unique-middle-element) |
 ## Rolling Hash
 |  |
 | ------- |
