@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/adxgun/dsa/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/adxgun/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adxgun/dsa/tree/master/3838-weighted-word-mapping) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adxgun/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/adxgun/dsa/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1423,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/adxgun/dsa/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/adxgun/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/adxgun/dsa/tree/master/3838-weighted-word-mapping) |
