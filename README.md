@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/adxgun/dsa/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/adxgun/dsa/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adxgun/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adxgun/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3408-design-task-manager](https://github.com/adxgun/dsa/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adxgun/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/adxgun/dsa/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/adxgun/dsa/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adxgun/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adxgun/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/adxgun/dsa/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
@@ -1233,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [2408-design-sql](https://github.com/adxgun/dsa/tree/master/2408-design-sql) |
 | [2502-design-memory-allocator](https://github.com/adxgun/dsa/tree/master/2502-design-memory-allocator) |
+| [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3408-design-task-manager](https://github.com/adxgun/dsa/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3829-design-ride-sharing-system](https://github.com/adxgun/dsa/tree/master/3829-design-ride-sharing-system) |
@@ -1413,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/adxgun/dsa/tree/master/2502-design-memory-allocator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/adxgun/dsa/tree/master/3612-process-string-with-special-operations-i) |
