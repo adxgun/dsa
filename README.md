@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-shortest-path-to-get-food](https://github.com/adxgun/dsa/tree/master/1730-shortest-path-to-get-food) |
 | [1732-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/adxgun/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1762-buildings-with-an-ocean-view](https://github.com/adxgun/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 | [1765-map-of-highest-peak](https://github.com/adxgun/dsa/tree/master/1765-map-of-highest-peak) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adxgun/dsa/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adxgun/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adxgun/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1762-buildings-with-an-ocean-view](https://github.com/adxgun/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/adxgun/dsa/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Heap (Priority Queue)
@@ -1411,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adxgun/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1762-buildings-with-an-ocean-view](https://github.com/adxgun/dsa/tree/master/1762-buildings-with-an-ocean-view) |
 ## Simulation
 |  |
 | ------- |
