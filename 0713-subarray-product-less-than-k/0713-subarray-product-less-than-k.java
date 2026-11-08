@@ -9,8 +9,7 @@ class Solution {
             }
             total += right - left + 1;
         }
-
-        // total += nums.length;
+        
         return total;
     }
 }
