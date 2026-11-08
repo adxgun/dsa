@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/adxgun/dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/adxgun/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1236-web-crawler](https://github.com/adxgun/dsa/tree/master/1236-web-crawler) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adxgun/dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/adxgun/dsa/tree/master/1268-search-suggestions-system) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1396-design-underground-system](https://github.com/adxgun/dsa/tree/master/1396-design-underground-system) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/adxgun/dsa/tree/master/0897-increasing-order-search-tree) |
 | [1214-two-sum-bsts](https://github.com/adxgun/dsa/tree/master/1214-two-sum-bsts) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adxgun/dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adxgun/dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adxgun/dsa/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adxgun/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
