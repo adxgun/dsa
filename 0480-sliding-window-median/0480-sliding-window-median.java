@@ -9,10 +9,10 @@ class Solution {
         double[] answer = new double[nums.length - k + 1];
         for (int i = 0; i < nums.length; i++) {
 
+            if (i >= k && !lo.remove(i - k)) hi.remove(i - k);
+            
             if (lo.isEmpty() || nums[i] <= nums[lo.last()]) lo.add(i);
             else hi.add(i);
-
-            if (i >= k && !lo.remove(i - k)) hi.remove(i - k);
 
             while (lo.size() > hi.size() + 1) hi.add(lo.pollLast());
             while (hi.size() > lo.size()) lo.add(hi.pollFirst());
