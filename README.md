@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adxgun/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/adxgun/dsa/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/adxgun/dsa/tree/master/0475-heaters) |
+| [0480-sliding-window-median](https://github.com/adxgun/dsa/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/adxgun/dsa/tree/master/0485-max-consecutive-ones) |
 | [0490-the-maze](https://github.com/adxgun/dsa/tree/master/0490-the-maze) |
 | [0496-next-greater-element-i](https://github.com/adxgun/dsa/tree/master/0496-next-greater-element-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/adxgun/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adxgun/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/adxgun/dsa/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/adxgun/dsa/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/adxgun/dsa/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/adxgun/dsa/tree/master/0523-continuous-subarray-sum) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/adxgun/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/adxgun/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/adxgun/dsa/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/adxgun/dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adxgun/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
@@ -1061,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adxgun/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/adxgun/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adxgun/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/adxgun/dsa/tree/master/0480-sliding-window-median) |
 | [0505-the-maze-ii](https://github.com/adxgun/dsa/tree/master/0505-the-maze-ii) |
 | [0642-design-search-autocomplete-system](https://github.com/adxgun/dsa/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/adxgun/dsa/tree/master/0658-find-k-closest-elements) |
@@ -2184,4 +2188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/adxgun/dsa/tree/master/0229-majority-element-ii) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/adxgun/dsa/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
