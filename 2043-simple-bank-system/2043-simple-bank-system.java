@@ -1,48 +1,33 @@
 class Bank {
 
-    private static final class Account {
-        int id = -1;
-        long balance = 0;
-
-        public Account(int id, long bal) {
-            this.id = id;
-            this.balance = bal;
-        }
-    }
-
-    private final Map<Integer, Account> accounts = new HashMap<>();
+    private final long[] balance;
+    private final int n;
     public Bank(long[] balance) {
-        int n = balance.length;
-        for (int i = 0; i < n; i++) {
-            accounts.put(i + 1, new Account(i + 1, balance[i]));
-        }
+        this.n = balance.length;
+        this.balance = balance;
     }
     
     public boolean transfer(int account1, int account2, long money) {
-        Account from = accounts.get(account1);
-        Account to = accounts.get(account2);
-        if (from == null || to == null) return false;
-        if (money > from.balance) return false;
+        if (account1 < 1 || account2 < 1 || account1 > n || account2 > n) return false;
+        if (money > balance[account1 - 1]) return false;
 
-        from.balance -= money;
-        to.balance += money;
+        balance[account1 - 1] -= money;
+        balance[account2 - 1] += money;
         return true;
     }
     
     public boolean deposit(int account, long money) {
-        Account acc = accounts.get(account);
-        if (acc == null) return false;
-
-        acc.balance += money;
+        if (account < 1 || account > n) return false;
+        
+        balance[account - 1] += money;
         return true;
     }
     
     public boolean withdraw(int account, long money) {
-        Account acc = accounts.get(account);
-        if (acc == null) return false;
-
-        if (money > acc.balance) return false;
-        acc.balance -= money;
+        if (account < 1 || account > n) return false;
+        
+        if (money > balance[account - 1]) return false;
+        balance[account - 1] -= money;
         return true;
     }
 }
