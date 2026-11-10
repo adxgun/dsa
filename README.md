@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/adxgun/dsa/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adxgun/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
+| [2169-count-operations-to-obtain-zero](https://github.com/adxgun/dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [3101-count-alternating-subarrays](https://github.com/adxgun/dsa/tree/master/3101-count-alternating-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adxgun/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adxgun/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/adxgun/dsa/tree/master/2043-simple-bank-system) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adxgun/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2169-count-operations-to-obtain-zero](https://github.com/adxgun/dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/adxgun/dsa/tree/master/2502-design-memory-allocator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
