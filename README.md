@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/adxgun/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1992-find-all-groups-of-farmland](https://github.com/adxgun/dsa/tree/master/1992-find-all-groups-of-farmland) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adxgun/dsa/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2043-simple-bank-system](https://github.com/adxgun/dsa/tree/master/2043-simple-bank-system) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adxgun/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/adxgun/dsa/tree/master/1817-finding-the-users-active-minutes) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/adxgun/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adxgun/dsa/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2043-simple-bank-system](https://github.com/adxgun/dsa/tree/master/2043-simple-bank-system) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/adxgun/dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/adxgun/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1858-longest-word-with-all-prefixes](https://github.com/adxgun/dsa/tree/master/1858-longest-word-with-all-prefixes) |
 | [1894-merge-strings-alternately](https://github.com/adxgun/dsa/tree/master/1894-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adxgun/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adxgun/dsa/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/adxgun/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adxgun/dsa/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/adxgun/dsa/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adxgun/dsa/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/adxgun/dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2833-furthest-point-from-origin](https://github.com/adxgun/dsa/tree/master/2833-furthest-point-from-origin) |
