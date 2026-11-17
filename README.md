@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adxgun/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/adxgun/dsa/tree/master/1817-finding-the-users-active-minutes) |
 | [1818-minimum-absolute-sum-difference](https://github.com/adxgun/dsa/tree/master/1818-minimum-absolute-sum-difference) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adxgun/dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-find-the-highest-altitude](https://github.com/adxgun/dsa/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adxgun/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1847-closest-room](https://github.com/adxgun/dsa/tree/master/1847-closest-room) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/adxgun/dsa/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adxgun/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adxgun/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adxgun/dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2101-detonate-the-maximum-bombs](https://github.com/adxgun/dsa/tree/master/2101-detonate-the-maximum-bombs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/adxgun/dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [3101-count-alternating-subarrays](https://github.com/adxgun/dsa/tree/master/3101-count-alternating-subarrays) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/adxgun/dsa/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/adxgun/dsa/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/adxgun/dsa/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adxgun/dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -1288,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adxgun/dsa/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/adxgun/dsa/tree/master/0969-number-of-recent-calls) |
 | [1429-first-unique-number](https://github.com/adxgun/dsa/tree/master/1429-first-unique-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adxgun/dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3829-design-ride-sharing-system](https://github.com/adxgun/dsa/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
 |  |
@@ -1451,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adxgun/dsa/tree/master/0415-add-strings) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/adxgun/dsa/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adxgun/dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/adxgun/dsa/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/adxgun/dsa/tree/master/2043-simple-bank-system) |
