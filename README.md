@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/adxgun/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adxgun/dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/adxgun/dsa/tree/master/1533-find-the-index-of-the-large-integer) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/adxgun/dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1539-kth-missing-positive-number](https://github.com/adxgun/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adxgun/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/adxgun/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1449,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/adxgun/dsa/tree/master/0348-design-tic-tac-toe) |
 | [0412-fizz-buzz](https://github.com/adxgun/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adxgun/dsa/tree/master/0415-add-strings) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/adxgun/dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/adxgun/dsa/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/adxgun/dsa/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/adxgun/dsa/tree/master/2043-simple-bank-system) |
