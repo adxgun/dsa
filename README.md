@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/adxgun/dsa/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/adxgun/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/adxgun/dsa/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/adxgun/dsa/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/adxgun/dsa/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adxgun/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/adxgun/dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/adxgun/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/adxgun/dsa/tree/master/0146-lru-cache) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/adxgun/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adxgun/dsa/tree/master/0706-design-hashmap) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/adxgun/dsa/tree/master/0146-lru-cache) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/adxgun/dsa/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0208-implement-trie-prefix-tree](https://github.com/adxgun/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/adxgun/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -2036,6 +2039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/adxgun/dsa/tree/master/0146-lru-cache) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/adxgun/dsa/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1797-design-authentication-manager](https://github.com/adxgun/dsa/tree/master/1797-design-authentication-manager) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
