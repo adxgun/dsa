@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adxgun/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adxgun/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adxgun/dsa/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adxgun/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0251-flatten-2d-vector](https://github.com/adxgun/dsa/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/adxgun/dsa/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/adxgun/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adxgun/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/adxgun/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adxgun/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/adxgun/dsa/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/adxgun/dsa/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/adxgun/dsa/tree/master/0270-closest-binary-search-tree-value) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adxgun/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/adxgun/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adxgun/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adxgun/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adxgun/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/adxgun/dsa/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/adxgun/dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1148,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/adxgun/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adxgun/dsa/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/adxgun/dsa/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adxgun/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0286-walls-and-gates](https://github.com/adxgun/dsa/tree/master/0286-walls-and-gates) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/adxgun/dsa/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/adxgun/dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
