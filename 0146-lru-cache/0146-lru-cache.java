@@ -47,7 +47,12 @@ class LRUCache {
         }
     }
 
+    // node = Z
     // X - A - B - C - D - X
+    // node.next = A - B - C ....
+    // node.prev = X
+    // head.next.prev = node = X - Z - A - B - C ...
+    // head.next = node
     private void addToFront(Node node) {
         node.next = head.next;
         node.prev = head;
