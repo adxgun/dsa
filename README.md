@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/adxgun/dsa/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adxgun/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/adxgun/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adxgun/dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2296-design-a-text-editor](https://github.com/adxgun/dsa/tree/master/2296-design-a-text-editor) |
 | [2408-design-sql](https://github.com/adxgun/dsa/tree/master/2408-design-sql) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/adxgun/dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
