@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/adxgun/dsa/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adxgun/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/adxgun/dsa/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3101-count-alternating-subarrays](https://github.com/adxgun/dsa/tree/master/3101-count-alternating-subarrays) |
 | [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/adxgun/dsa/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adxgun/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/adxgun/dsa/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-design-neighbor-sum-service](https://github.com/adxgun/dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3408-design-task-manager](https://github.com/adxgun/dsa/tree/master/3408-design-task-manager) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/adxgun/dsa/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/adxgun/dsa/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/adxgun/dsa/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adxgun/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3484-design-spreadsheet](https://github.com/adxgun/dsa/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/adxgun/dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/adxgun/dsa/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/adxgun/dsa/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adxgun/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/adxgun/dsa/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3597-partition-string](https://github.com/adxgun/dsa/tree/master/3597-partition-string) |
 ## Sorting
 |  |
